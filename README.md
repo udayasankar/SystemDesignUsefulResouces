@@ -33,3 +33,6 @@ https://levelup.gitconnected.com/100-essential-systems-design-concepts-that-ever
 Top 30 System Design Interview Questions and Problems for Programmers and Software Engineers :
 
 https://faun.pub/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67
+
+https://github.com/Amanhacker/system-design-resources
+https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4
