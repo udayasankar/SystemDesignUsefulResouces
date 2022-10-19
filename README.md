@@ -2,6 +2,8 @@
 *******************************************************************************************************************************************************************
 https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/
 
+https://khalilstemmler.com/letters/3-steps-to-solve-most-design-problems/
+
 
 https://github.com/stemmlerjs
 ******************************************************************************************************************************************************************
