@@ -130,3 +130,41 @@ https://faun.pub/top-30-system-design-interview-questions-and-problems-for-progr
 
 https://github.com/Amanhacker/system-design-resources
 https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4
+
+*******************************************************************************************************************************************************************
+What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?
+
+General People:
+
+Martin Fowler - A legend in this industry. So much of my early career was influenced by his thinking.
+danah boyd - such great insights into the (not always great) impact of technology on people.
+Brett Victor - I sometimes feel like he has been given a gift from the future and we are just finding out about it now.
+Randall Monroe - He has such a gift for making the (highly technical) absurdities of our world so easy to laugh at.
+Neal Ford (from thoughtworks) - Truly excellent communicator. He inspired me to learn how to give a better tech talk.
+Venkat Subramaniam (from Agile Developer) - Similar to Neal, Venkat has such energy and a passion for his craft.
+Books:
+
+The Design of Everyday Things
+Clean Code
+Growing Object Oriented Software Guided by Tests
+The Pragmatic Programmer
+Working Effectively with Legacy Code
+Refactoring
+Object Thinking
+Godel, Escher, Bach - This one can be controversial, but it really got me to stretch the way I think about computing and that in itself is worth a lot.
+Blogs/Podcasts:
+
+High Scalability
+InfoQ (used to have a ton of great videos from so many conferences)
+infrequently.org
+Stratechery
+apenwarr.ca
+Thoughtworks Podcast
+Googlers who've inspired me:
+
+Robert Konigsberg - Who helped me truly find my voice.
+Titus Winters - Who has given me so much support and opportunity over the years.
+George Fairbanks - Whose deep thoughts on the craft of software development have caused me to think much more deeply about the work I do.
+Michelle Levesque - Who probably doesn’t remember me, but she showed me what authentic and inspired technical leadership can look like.
+
+*******************************************************************************************************************************************************************
