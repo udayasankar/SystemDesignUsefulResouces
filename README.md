@@ -168,3 +168,18 @@ George Fairbanks - Whose deep thoughts on the craft of software development have
 Michelle Levesque - Who probably doesn’t remember me, but she showed me what authentic and inspired technical leadership can look like.
 
 *******************************************************************************************************************************************************************
+*******************************************************************************************************************************************************************
+
+5 papers that every senior backend engineer should read.
+
+Harvest, Yield and Scalable Tolerant Systems - https://lnkd.in/gX_Up2p4
+
+On Designing and Deploying Internet Scale Services - https://lnkd.in/gA5mgzXv
+
+Data on the Outside versus Data on the Inside - https://lnkd.in/g5HU9cAC
+
+Building on Quicksand - https://lnkd.in/gmWnJBVX
+
+A Note on Distributed Computing - https://lnkd.in/gxEkVgDC
+
+*******************************************************************************************************************************************************************
