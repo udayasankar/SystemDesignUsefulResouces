@@ -1,4 +1,30 @@
 # SystemDesignUsefulResouces
+
+*********************************************************************************************************************
+Important papers
+
+Dynamo: Amazon's Highly Available Key-value Store
+https://lnkd.in/
+
+🔹BigTable
+https://lnkd.in/g7MEFuiY
+
+🔹Cassandra
+https://lnkd.in/dQ2sFfXT
+
+🔹Hadoop Distributed File System
+https://lnkd.in/dxRUaNfa
+
+🔹Google File System
+https://lnkd.in/gvk8eXtm
+
+🔹Kafka
+https://lnkd.in/gUe-4dn2
+
+🔹CockroachDB
+https://lnkd.in/gr3NJvJc
+
+
 ******************************************************************************************************************************************************************
 https://github.com/karanpratapsingh/system-design#next-steps
 
