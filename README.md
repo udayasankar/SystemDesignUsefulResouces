@@ -25,7 +25,40 @@ https://lnkd.in/gUe-4dn2
 https://lnkd.in/gr3NJvJc
 
 
-******************************************************************************************************************************************************************
+***********************************************************************************************************************
+***********************************************************************************************************************
+
+1-Kafka Basics
+❄️ http://bit.ly/3gCdWSe
+❄️http://bit.ly/3EWDnpV
+
+2-Kafka Producer
+❄️ http://bit.ly/3gxgctS
+
+3-Kafka Stream
+❄️http://bit.ly/3XzJB7i
+
+4-KSQL
+❄️http://bit.ly/3XAGegr
+
+5-Kafka Connect
+❄️http://bit.ly/3GKUiyb
+
+6- Python
+❄️ http://bit.ly/3CoFlhp
+
+7- Java Basic
+❄️http://bit.ly/3UbVDkl
+
+8-Docker
+❄️ https://bit.ly/3VlE2rg
+
+9-ProjectgTadx7kn
+❄️ http://bit.ly/3iezjcR
+
+**********************************************************************************************************************
+
+*******************************************
 https://github.com/karanpratapsingh/system-design#next-steps
 
 https://kps.hashnode.dev/system-design-the-complete-course
