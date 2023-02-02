@@ -1,5 +1,143 @@
 # SystemDesignUsefulResouces
+***********************************************************************************************************************
+Airbnb: https://lnkd.in/dAPjjaA3
+
+Amazon: https://lnkd.in/dyp43Yqp
+
+Asana: https://lnkd.in/dWqZxf6Y
+
+Atlassian: https://lnkd.in/d-i34bUQ
+
+BitTorrent, Inc.: https://lnkd.in/dfZPa6Ma
+
+Cloudera: https://blog.cloudera.com
+
+Docker, Inc: https://blog.docker.com
+
+Dropbox: https://lnkd.in/dUQJTxac
+
+eBay: https://lnkd.in/dnmca2uT
+
+Meta: https://lnkd.in/dbwkUDjN
+
+GitHub: https://lnkd.in/dSC9StzD
+
+Google: https://lnkd.in/ddPVy6Zj
+
+Groupon: https://lnkd.in/dsyGvUWF
+
+Highscalability: http://highscalability.com
+
+Instacart: https://tech.instacart.com
+
+Instagram: https://lnkd.in/dEs6FyGn
+
+LinkedIn: https://lnkd.in/d_yQe9g6
+
+Mixpanel: https://mixpanel.com/blog
+
+Netflix: https://lnkd.in/dKhbQqxd
+
+Nextdoor: https://lnkd.in/dDdGPQgR
+
+PayPal: https://lnkd.in/d9YkeE_h
+
+Pinterest: https://lnkd.in/duz8a8vq
+
+Quora: https://lnkd.in/d-iuzYZq
+
+Reddit, Inc.: https://redditblog.com
+
+Salesforce: https://lnkd.in/dV9unb47
+
+Shopify: https://lnkd.in/dQtK4TME
+
+Slack: https://slack.engineering
+
+SoundCloud: https://lnkd.in/dgWK_v4h
+
+Spotify: https://labs.spotify.com
+
+Stripe: https://lnkd.in/dm-WBTgr
+
+System design primer: https://lnkd.in/dnUnsQE9
+
+Twitter: https://lnkd.in/d9tmm5wj
+
+Thumbtack: https://lnkd.in/d6QTWF_p
+
+Uber: http://eng.uber.com
+
+Yahoo: https://lnkd.in/dKgyhbNE
+
+Yelp: https://lnkd.in/d_6hhMS4
+
+Zoom: https://lnkd.in/dquH3cKY
+***********************************************************************************************************************
+
+***********************************************************************************************************************
+Meta Engineering Blog
+https://lnkd.in/gUfytp6i
+
+ Instagram Engineering Blog
+https://lnkd.in/gauqdrcp
+
+ Uber Engineering Blog
+https://lnkd.in/gvptWmQT
+
+ AirBnb Engineering Blog
+https://airbnb.io/
+
+ Netflix Engineering Blog
+https://lnkd.in/gRb2hkWa
+
+ Linkedin Engineering Blog
+https://lnkd.in/g5tPjCSC
+
+ Spotify Engineering Blog
+https://lnkd.in/gh4-PwFa
+
+ Stripe Engineering Blog
+https://lnkd.in/gzir7EM9
+
+ Snap Engineering Blog
+https://eng.snap.com/blog
+
+ Instcart Engineering Blog
+https://lnkd.in/gGykVadC
+
+ Etsy Engineering Blog
+https://lnkd.in/g6bYuXSd
+
+ Canva Engineering Blog
+https://canvatechblog.com/
+
+ Miro Engineering Blog
+https://lnkd.in/gdrCyTrQ
+
+ Lyft Engineering Blog
+https://eng.lyft.com/
+
+ Twitter Engineering Blog
+https://lnkd.in/gRNDHNcH
+
+ Myntra Engineering Blog
+https://tech.myntra.com/
+
+ Flipkart Engineering Blog
+https://lnkd.in/gukdB3Tz
+
+ Tinder Engineering Blog
+https://medium.com/tinder
+
+ Pinterest Engineering Blog
+https://lnkd.in/g7DWBCqn
+
+ Slack Engineering Blog
+https://slack.engineering/
 **********************************************************************************************************************
+
+***********************************************************************************************************************
 𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐚 𝐜𝐮𝐫𝐚𝐭𝐞𝐝 𝐥𝐢𝐬𝐭 𝐨𝐟 𝐆𝐢𝐭𝐇𝐮𝐛 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 𝐭𝐡𝐚𝐭 𝐰𝐢𝐥𝐥 𝐫𝐞𝐚𝐥𝐥𝐲 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐭𝐨 𝐚𝐝𝐯𝐚𝐧𝐜𝐞 𝐲𝐨𝐮𝐫 𝐜𝐚𝐫𝐞𝐞𝐫 𝐢𝐧 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐃𝐞𝐯𝐎𝐩𝐬, 𝐒𝐑𝐄 𝐚𝐧𝐝 𝐦𝐨𝐫𝐞! 📚
 
 1. A list of programming tutorials in which aspiring software engineers learn how to build an application from scratch.
