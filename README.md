@@ -10,6 +10,10 @@ https://medium.com/trendyol-tech/a-distributed-job-scheduler-story-part-ii-b756f
 
 https://www.linkedin.com/pulse/system-design-distributed-job-scheduler-keep-simple-stupid-ismail/
 
+https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn
+
+https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox
+
 ***********************************************************************************************************************
 ***********************************************************************************************************************
 https://engineering.klarna.com/distributed-systems-key-concepts-patterns-d4d5236b9816
