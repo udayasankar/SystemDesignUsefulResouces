@@ -2,54 +2,54 @@
 <html>
 <body>
 <p>Engineering at Meta - https://lnkd.in/e8tiSkEv</P>
-Google Research - https://ai.googleblog.com/
-Google Cloud Blog - https://lnkd.in/enNviCF8
-AWS Architecture Blog - https://lnkd.in/eEchKJif
-All Things Distributed - https://lnkd.in/emXaQDaS
-The Nextflix Tech Blog - https://lnkd.in/efPuR39b
-LinkedIn Engineering Blog - https://lnkd.in/ehaePQth
-Uber Engineering Blog - https://eng.uber.com/
-Engineering at Quora - https://lnkd.in/em-WkhJd
-Pinterest Engineering - https://lnkd.in/esBTntjq
-Lyft Engineering Blog - https://eng.lyft.com/
-Twitter Engineering Blog - https://lnkd.in/evMFNhEs
-Dropbox Engineering Blog - https://dropbox.tech/
-Spotify Engineering - https://lnkd.in/eJerVRQM
-Github Engineering - https://lnkd.in/eCADWt8x
-Instagram Engineering - https://lnkd.in/e7Gag8m5
-Databricks - https://lnkd.in/eXcBj37a
-Canva Engineering Blog - https://canvatechblog.com/
-Etsy Engineering - https://lnkd.in/eddzzKRt
-Booking.com Tech Blog - https://blog.booking.com/
-Expedia Technology - https://lnkd.in/ehjuBE5J
-The Airbnb Tech Blog - https://lnkd.in/emGrJbGM
-Stripe Engineering Blog - https://lnkd.in/em6Svgyx
-Ebay Tech Blog - https://tech.ebayinc.com/
-Flickr's Tech Blog - https://code.flickr.net/
-Hubspot Product and Engineering Blog - https://lnkd.in/eRGZkBd4
-Zynga Engineering - https://lnkd.in/eex5Ddry
-Yelp Engineering Blog - https://lnkd.in/epgBW_4J
-Heroku Engineering Blog - https://lnkd.in/evgctQjh
-Discord Engineering and Design - https://lnkd.in/evY4gpUA
-Zomato - https://lnkd.in/e9gf3APD
-Hotstar - https://blog.hotstar.com/
-Swiggy - https://bytes.swiggy.com/
-Acast Tech - https://lnkd.in/esuCEYZb
-ASOS Tech Blog - https://lnkd.in/esXfdv3G
-Shopify Engineering - https://lnkd.in/evvnqQTj
-Microsoft Tech Blogs - https://lnkd.in/etw_7_bN
-Engineering at Microsoft - https://lnkd.in/eEKz4ECi
-MongoDB Engineering Blog - https://lnkd.in/e9iaqcmZ
-Slack Engineering - https://slack.engineering/
-Engineering at Depop - https://lnkd.in/eGjRYcFd
-SourceDiving (Cookpad's Engineering Blog - https://sourcediving.com/
-Auto Trader Engineering Blog - https://lnkd.in/eGDKA_g3
-Indeed Engineering Blog - https://lnkd.in/ecFS87Dt
-Gusto Engineering Blog - https://lnkd.in/e7yVxDKs
-Engineering at Birdie - https://lnkd.in/eUqJTpje
-Forethough Engineering - https://lnkd.in/esCKvedJ
-Capital One - https://lnkd.in/ezsKUf_H
-Disney Streaming - https://lnkd.in/e4nmMdWd
+<p>Google Research - https://ai.googleblog.com/</P>
+<p>Google Cloud Blog - https://lnkd.in/enNviCF8</P>
+<p>AWS Architecture Blog - https://lnkd.in/eEchKJif</P>
+<p>All Things Distributed - https://lnkd.in/emXaQDaS</P>
+<p>The Nextflix Tech Blog - https://lnkd.in/efPuR39b</P>
+<p>LinkedIn Engineering Blog - https://lnkd.in/ehaePQth</P>
+<p>Uber Engineering Blog - https://eng.uber.com/</P>
+<p>Engineering at Quora - https://lnkd.in/em-WkhJd</P>
+<p>Pinterest Engineering - https://lnkd.in/esBTntjq</P>
+<p>Lyft Engineering Blog - https://eng.lyft.com/</P>
+<p>Twitter Engineering Blog - https://lnkd.in/evMFNhEs</P>
+<p>Dropbox Engineering Blog - https://dropbox.tech/</P>
+<p>Spotify Engineering - https://lnkd.in/eJerVRQM</P>
+<p>Github Engineering - https://lnkd.in/eCADWt8x</P>
+<p>Instagram Engineering - https://lnkd.in/e7Gag8m5</P>
+<p>Databricks - https://lnkd.in/eXcBj37a</P>
+<p>Canva Engineering Blog - https://canvatechblog.com/</P>
+<p>Etsy Engineering - https://lnkd.in/eddzzKRt</P>
+<p>Booking.com Tech Blog - https://blog.booking.com/</P>
+<p>Expedia Technology - https://lnkd.in/ehjuBE5J</P>
+<p>The Airbnb Tech Blog - https://lnkd.in/emGrJbGM</P>
+<p>Stripe Engineering Blog - https://lnkd.in/em6Svgyx</P>
+<p>Ebay Tech Blog - https://tech.ebayinc.com/</P>
+<p>Flickr's Tech Blog - https://code.flickr.net/</P>
+<p>Hubspot Product and Engineering Blog - https://lnkd.in/eRGZkBd4</P>
+<p>Zynga Engineering - https://lnkd.in/eex5Ddry</P>
+<p>Yelp Engineering Blog - https://lnkd.in/epgBW_4J</P>
+<p>Heroku Engineering Blog - https://lnkd.in/evgctQjh</P>
+<p>Discord Engineering and Design - https://lnkd.in/evY4gpUA</P>
+<p>Zomato - https://lnkd.in/e9gf3APD</P>
+<p>Hotstar - https://blog.hotstar.com/</P>
+<p>Swiggy - https://bytes.swiggy.com/</P>
+<p>Acast Tech - https://lnkd.in/esuCEYZb</P>
+<p>ASOS Tech Blog - https://lnkd.in/esXfdv3G</P>
+<p>Shopify Engineering - https://lnkd.in/evvnqQTj</P>
+<p>Microsoft Tech Blogs - https://lnkd.in/etw_7_bN</P>
+<p>Engineering at Microsoft - https://lnkd.in/eEKz4ECi</P>
+<p>MongoDB Engineering Blog - https://lnkd.in/e9iaqcmZ</P>
+<p>Slack Engineering - https://slack.engineering/</P>
+<p>Engineering at Depop - https://lnkd.in/eGjRYcFd</P>
+<p>SourceDiving (Cookpad's Engineering Blog - https://sourcediving.com/</P>
+<p>Auto Trader Engineering Blog - https://lnkd.in/eGDKA_g3</P>
+<p>Indeed Engineering Blog - https://lnkd.in/ecFS87Dt</P>
+<p>Gusto Engineering Blog - https://lnkd.in/e7yVxDKs</P>
+<p>Engineering at Birdie - https://lnkd.in/eUqJTpje</P>
+<p>Forethough Engineering - https://lnkd.in/esCKvedJ</P>
+<p>Capital One - https://lnkd.in/ezsKUf_H</P>
+<p>Disney Streaming - https://lnkd.in/e4nmMdWd</P>
 </body>
 </html>
 **************************************************************************************
