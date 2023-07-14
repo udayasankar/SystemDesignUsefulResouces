@@ -1,6 +1,5 @@
 # SystemDesignUsefulResouces
 <html>
-<body>
 <body style="background-color:powderblue;">
 <h1>Basic Engineering Links For Design</h1>
 <p>Engineering at Meta - https://lnkd.in/e8tiSkEv</P>
