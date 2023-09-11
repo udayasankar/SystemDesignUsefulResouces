@@ -1,6 +1,64 @@
 # SystemDesignUsefulResouces
 <html>
 <body style="background-color:powderblue;">
+<h1>Compilation credits: John Crickett</h1>
+<p>AWS Architecture: https://lnkd.in/eEchKJif</P>
+<p>All Things Distributed: https://lnkd.in/emXaQDaS</P>
+<p>Microsoft Tech: https://lnkd.in/etw_7_bN</P>
+<p>Engineering at Microsoft: https://lnkd.in/eEKz4ECi</P>
+<p>Meta: https://lnkd.in/e8tiSkEv</P>
+<p>Netflix Tech: https://lnkd.in/efPuR39b</P>
+<p>LinkedIn Engineering: https://lnkd.in/ehaePQth</P>
+<p>Uber Engineering: https://eng.uber.com/</P>
+<p>Engineering at Quora: https://lnkd.in/em-WkhJd</P>
+<p>Pinterest Engineering: https://lnkd.in/esBTntjq</P>
+<p>Lyft Engineering: https://eng.lyft.com/</P>
+<p>Twitter Engineering: https://lnkd.in/evMFNhEs</P>
+<p>Dropbox Engineering: https://dropbox.tech/</P>
+<p>Spotify Engineering: https://lnkd.in/eJerVRQM</P>
+<p>Github Engineering: https://lnkd.in/eCADWt8x</P>
+<p>Instagram Engineering: https://lnkd.in/e7Gag8m5</P>
+<p>Canva Engineering: https://canvatechblog.com/</P>
+<p>Etsy Engineering: https://lnkd.in/eddzzKRt</P>
+<p>Booking.com Tech: https://blog.booking.com/</P>
+<p>Expedia Technology: https://lnkd.in/ehjuBE5J</P>
+<p>The Airbnb Tech: https://lnkd.in/emGrJbGM</P>
+<p>Stripe Engineering: https://lnkd.in/em6Svgyx</P>
+<p>Ebay Tech: https://tech.ebayinc.com/</P>
+<p>Flickr's Tech: https://code.flickr.net/</P>
+<p>Hubspot Product and Engineering: https://lnkd.in/eRGZkBd4</P>
+<p>Zynga Engineering: https://lnkd.in/eex5Ddry</P>
+<p>Yelp Engineering: https://lnkd.in/epgBW_4J</P>
+<p>Heroku Engineering: https://lnkd.in/evgctQjh</P>
+<p>Discord Engineering: https://lnkd.in/evY4gpUA</P>
+<p>Zomato: https://lnkd.in/e9gf3APD</P>
+<p>Hotstar: https://blog.hotstar.com/</P>
+<p>Swiggy: https://bytes.swiggy.com/</P>
+<p>Acast Tech: https://lnkd.in/esuCEYZb</P>
+<p>ASOS Tech: https://lnkd.in/esXfdv3G</P>
+<p>Shopify Engineering: https://lnkd.in/evvnqQTj</P>
+<p>MongoDB Engineering: https://lnkd.in/e9iaqcmZ</P>
+<p>Slack Engineering: https://slack.engineering/</P>
+<p>DoorDash Engineering: https://lnkd.in/ep5raBZv</P>
+<p>Akamai: https://lnkd.in/ey_dtA7C</P>
+<p>Expedia Technology: https://lnkd.in/ehjuBE5J</P>
+<p>Reddit Engineering: https://lnkd.in/e4E_XzaX</P>
+<p>Snap Engineering: https://eng.snap.com/blog</P>
+<p>Engineering at Depop: https://lnkd.in/eGjRYcFd</P>
+<p>SourceDiving : https://sourcediving.com/</P>
+<p>Auto Trader Engineering: https://lnkd.in/eGDKA_g3</P>
+<p>Indeed Engineering: https://lnkd.in/ecFS87Dt</P>
+<p>Gusto Engineering: https://lnkd.in/e7yVxDKs</P>
+<p>Engineering at Birdie: https://lnkd.in/eUqJTpje</P>
+<p>Forethough Engineering: https://lnkd.in/esCKvedJ</P>
+<p>Ramp: https://lnkd.in/eZHSnx-j</P>
+<p>Capital One: https://lnkd.in/ezsKUf_H</P>
+<p>Disney Streaming: https://lnkd.in/eWe6w6TT</P>
+<p>Dunelm: https://lnkd.in/enJS53DS</P>
+<p>The Guardian: https://lnkd.in/e73WNZNN</P>
+<p>GiffGaff: https://lnkd.in/eBakqffd</P>
+
+
 <h1>Basic Engineering Links For Design</h1>
 <p>Engineering at Meta - https://lnkd.in/e8tiSkEv</P>
 <p>Google Research - https://ai.googleblog.com/</P>
