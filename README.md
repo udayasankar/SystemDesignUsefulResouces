@@ -52,6 +52,18 @@
 <p>Capital One - https://lnkd.in/ezsKUf_H</P>
 <p>Disney Streaming - https://lnkd.in/e4nmMdWd</P>
 
+<h1>System Design Links</h1>
+<p>1) Uber - https://lnkd.in/gASdDKdJ</P>
+<p>2) Airbnb - https://lnkd.in/gCHCKZUA</P>
+<p>3) Hotstar - https://blog.hotstar.com/</P>
+<p>4) Atlassian - https://lnkd.in/g6z4Mkmr</P>
+<p>5) Quora - https://lnkd.in/gnutuc8C</P>
+<p>6) Flipkart - https://lnkd.in/gZXKm5xS</P>
+<p>7) Discord - https://lnkd.in/ga_bHfXM</P>
+<p>8) Medium (collation of many blogs) - https://lnkd.in/gXGTizws</P>
+<p>9) Swiggy - https://bytes.swiggy.com/</P>
+<p>10) Dropbox - https://lnkd.in/gUsQQxBG</P>
+<p>11) Pinterest - https://lnkd.in/gdykC6Vv</P>
 
 <h1>Git Hub System Design Links</h1>
 <p>https://github.com/InterviewReady/system-design-resources</P>
