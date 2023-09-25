@@ -18,6 +18,8 @@
 
 <p>https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction//<p>
 
+<p>https://newsletter.simpleaws.dev/<p1>
+
 
 <h1>Compilation credits: John Crickett</h1>
 <p>AWS Architecture: https://lnkd.in/eEchKJif</P>
