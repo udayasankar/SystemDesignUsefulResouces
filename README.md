@@ -1,6 +1,24 @@
 # SystemDesignUsefulResouces
 <html>
 <body style="background-color:powderblue;">
+
+<h1>System Design GIT Pages</h1>
+
+<p>- https://lnkd.in/gqqBreDG</P>
+
+<p>- https://lnkd.in/gmzbeCZe</P>
+
+<p>- https://lnkd.in/gRvCYnga</P>
+
+<p>- https://lnkd.in/gXdGwnaW</P>
+
+<p>- https://lnkd.in/gv3vkRXV</P>
+
+<p>- https://lnkd.in/gKZv_ijT</P>
+
+<p>https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction//<p>
+
+
 <h1>Compilation credits: John Crickett</h1>
 <p>AWS Architecture: https://lnkd.in/eEchKJif</P>
 <p>All Things Distributed: https://lnkd.in/emXaQDaS</P>
