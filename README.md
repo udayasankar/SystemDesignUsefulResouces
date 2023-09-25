@@ -127,408 +127,384 @@
 <p>https://github.com/InterviewReady/system-design-resources</P>
 <p>https://github.com/binhnguyennus/awesome-scalability</P>
 <p>https://github.com/InterviewReady/system-design-resources</p>
-</body>
-</html>
 
-*****************************************************************************************************************************************************************************
-Spotify
-https://www.linkedin.com/pulse/spotify-system-architecture-omar-ismail/
 
-**********************************************************************************************************************
-**********************************************************************************************************************
-RocksDB:
-https://rockset.com/blog/rocksdb-is-eating-the-database-world/
+<h1>Spotify</h1>
 
-**********************************************************************************************************************
-**********************************************************************************************************************
-Job Scheduler Design:
-https://medium.com/trendyol-tech/a-distributed-job-scheduler-story-part-ii-b756ffacde63
+<p>https://www.linkedin.com/pulse/spotify-system-architecture-omar-ismail/</p>
 
-https://www.linkedin.com/pulse/system-design-distributed-job-scheduler-keep-simple-stupid-ismail/
 
-https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn
+<h1>RocksDB:</h1>
 
-https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox
+<p>https://rockset.com/blog/rocksdb-is-eating-the-database-world/</p>
 
-***********************************************************************************************************************
-***********************************************************************************************************************
-https://engineering.klarna.com/distributed-systems-key-concepts-patterns-d4d5236b9816
 
-https://engineering.klarna.com/automate-resilience-bc0733ac88f4
+<h1>Job Scheduler Design:</h1>
+<p>https://medium.com/trendyol-tech/a-distributed-job-scheduler-story-part-ii-b756ffacde63</p>
 
+<p>https://www.linkedin.com/pulse/system-design-distributed-job-scheduler-keep-simple-stupid-ismail/</p>
 
-**********************************************************************************************************************
-***********************************************************************************************************************
-Airbnb: https://lnkd.in/dAPjjaA3
+<p>https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn</p>
 
-Amazon: https://lnkd.in/dyp43Yqp
+<p>https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox</p>
 
-Asana: https://lnkd.in/dWqZxf6Y
+<p>https://engineering.klarna.com/distributed-systems-key-concepts-patterns-d4d5236b9816</p>
 
-Atlassian: https://lnkd.in/d-i34bUQ
+<p>https://engineering.klarna.com/automate-resilience-bc0733ac88f4</p>
 
-BitTorrent, Inc.: https://lnkd.in/dfZPa6Ma
 
-Cloudera: https://blog.cloudera.com
 
-Docker, Inc: https://blog.docker.com
+<p>Airbnb: https://lnkd.in/dAPjjaA3</p>
 
-Dropbox: https://lnkd.in/dUQJTxac
+<p>Amazon: https://lnkd.in/dyp43Yqp</p>
 
-eBay: https://lnkd.in/dnmca2uT
+<p>Asana: https://lnkd.in/dWqZxf6Y</p>
 
-Meta: https://lnkd.in/dbwkUDjN
+<p>Atlassian: https://lnkd.in/d-i34bUQ</p>
 
-GitHub: https://lnkd.in/dSC9StzD
+<p>BitTorrent, Inc.: https://lnkd.in/dfZPa6Ma</p>
 
-Google: https://lnkd.in/ddPVy6Zj
+<p>Cloudera: https://blog.cloudera.com</p>
 
-Groupon: https://lnkd.in/dsyGvUWF
+<p>Docker, Inc: https://blog.docker.com</p>
 
-Highscalability: http://highscalability.com
+<p>Dropbox: https://lnkd.in/dUQJTxac</p>
 
-Instacart: https://tech.instacart.com
+<p>eBay: https://lnkd.in/dnmca2uT</p>
 
-Instagram: https://lnkd.in/dEs6FyGn
+<p>Meta: https://lnkd.in/dbwkUDjN</p>
 
-LinkedIn: https://lnkd.in/d_yQe9g6
+<p>GitHub: https://lnkd.in/dSC9StzD</p>
 
-Mixpanel: https://mixpanel.com/blog
+<p>Google: https://lnkd.in/ddPVy6Zj</p>
 
-Netflix: https://lnkd.in/dKhbQqxd
+<p>Groupon: https://lnkd.in/dsyGvUWF</p>
 
-Nextdoor: https://lnkd.in/dDdGPQgR
+<p>Highscalability: http://highscalability.com</p>
 
-PayPal: https://lnkd.in/d9YkeE_h
+<p>Instacart: https://tech.instacart.com</p>
 
-Pinterest: https://lnkd.in/duz8a8vq
+<p>Instagram: https://lnkd.in/dEs6FyGn</p>
 
-Quora: https://lnkd.in/d-iuzYZq
+<p>LinkedIn: https://lnkd.in/d_yQe9g6</p>
 
-Reddit, Inc.: https://redditblog.com
+<p>Mixpanel: https://mixpanel.com/blog</p>
 
-Salesforce: https://lnkd.in/dV9unb47
+<p>Netflix: https://lnkd.in/dKhbQqxd</p>
 
-Shopify: https://lnkd.in/dQtK4TME
+<p>Nextdoor: https://lnkd.in/dDdGPQgR</p>
 
-Slack: https://slack.engineering
+<p>PayPal: https://lnkd.in/d9YkeE_h</p>
 
-SoundCloud: https://lnkd.in/dgWK_v4h
+<p>Pinterest: https://lnkd.in/duz8a8vq</p>
 
-Spotify: https://labs.spotify.com
+<p>Quora: https://lnkd.in/d-iuzYZq</p>
 
-Stripe: https://lnkd.in/dm-WBTgr
+<p>Reddit, Inc.: https://redditblog.com</p>
 
-System design primer: https://lnkd.in/dnUnsQE9
+<p>Salesforce: https://lnkd.in/dV9unb47</p>
 
-Twitter: https://lnkd.in/d9tmm5wj
+<p>Shopify: https://lnkd.in/dQtK4TME</p>
 
-Thumbtack: https://lnkd.in/d6QTWF_p
+<p>Slack: https://slack.engineering</p>
 
-Uber: http://eng.uber.com
+<p>SoundCloud: https://lnkd.in/dgWK_v4h</p>
 
-Yahoo: https://lnkd.in/dKgyhbNE
+<p>Spotify: https://labs.spotify.com</p>
 
-Yelp: https://lnkd.in/d_6hhMS4
+<p>Stripe: https://lnkd.in/dm-WBTgr</p>
 
-Zoom: https://lnkd.in/dquH3cKY
-***********************************************************************************************************************
+<p>System design primer: https://lnkd.in/dnUnsQE9</p>
 
-***********************************************************************************************************************
-Meta Engineering Blog
-https://lnkd.in/gUfytp6i
+<p>Twitter: https://lnkd.in/d9tmm5wj</p>
 
- Instagram Engineering Blog
-https://lnkd.in/gauqdrcp
+<p>Thumbtack: https://lnkd.in/d6QTWF_p</p>
 
- Uber Engineering Blog
-https://lnkd.in/gvptWmQT
+<p>Uber: http://eng.uber.com</p>
 
- AirBnb Engineering Blog
-https://airbnb.io/
+<p>Yahoo: https://lnkd.in/dKgyhbNE</p>
 
- Netflix Engineering Blog
-https://lnkd.in/gRb2hkWa
+<p>Yelp: https://lnkd.in/d_6hhMS4</p>
 
- Linkedin Engineering Blog
-https://lnkd.in/g5tPjCSC
+<p>Zoom: https://lnkd.in/dquH3cKY</p>
 
- Spotify Engineering Blog
-https://lnkd.in/gh4-PwFa
+<h1>Meta Engineering Blog</h1>
+<p>https://lnkd.in/gUfytp6i</p>
 
- Stripe Engineering Blog
-https://lnkd.in/gzir7EM9
+ <h1>Instagram Engineering Blog</h1>
+<p>https://lnkd.in/gauqdrcp</p>
 
- Snap Engineering Blog
-https://eng.snap.com/blog
+ <h1>Uber Engineering Blog</h1>
+<p>https://lnkd.in/gvptWmQT</p>
 
- Instcart Engineering Blog
-https://lnkd.in/gGykVadC
+ <h1>AirBnb Engineering Blog</h1>
+<p>https://airbnb.io/</p>
 
- Etsy Engineering Blog
-https://lnkd.in/g6bYuXSd
+ <h1>Netflix Engineering Blog</h1>
+<p>https://lnkd.in/gRb2hkWa</p>
 
- Canva Engineering Blog
-https://canvatechblog.com/
+ <h1>Linkedin Engineering Blog</h1>
+<p>https://lnkd.in/g5tPjCSC</p>
 
- Miro Engineering Blog
-https://lnkd.in/gdrCyTrQ
+ <h1>Spotify Engineering Blog</h1>
+<p>https://lnkd.in/gh4-PwFa</p>
 
- Lyft Engineering Blog
-https://eng.lyft.com/
+ <h1>Stripe Engineering Blog</h1>
+<p>https://lnkd.in/gzir7EM9</p>
 
- Twitter Engineering Blog
-https://lnkd.in/gRNDHNcH
+ <h1>Snap Engineering Blog</h1>
+<p>https://eng.snap.com/blog</p>
 
- Myntra Engineering Blog
-https://tech.myntra.com/
+ <h1>Instcart Engineering Blog</h1>
+<p>https://lnkd.in/gGykVadC</p>
 
- Flipkart Engineering Blog
-https://lnkd.in/gukdB3Tz
+ <h1>Etsy Engineering Blog</h1>
+<p>https://lnkd.in/g6bYuXSd</p>
 
- Tinder Engineering Blog
-https://medium.com/tinder
+ <h1>Canva Engineering Blog</h1>
+<p>https://canvatechblog.com/</p>
 
- Pinterest Engineering Blog
-https://lnkd.in/g7DWBCqn
+ <h1>Miro Engineering Blog</h1>
+<p>https://lnkd.in/gdrCyTrQ</p>
 
- Slack Engineering Blog
-https://slack.engineering/
-**********************************************************************************************************************
+ <h1>Lyft Engineering Blog</h1>
+<p>https://eng.lyft.com/</p>
 
-***********************************************************************************************************************
-𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐚 𝐜𝐮𝐫𝐚𝐭𝐞𝐝 𝐥𝐢𝐬𝐭 𝐨𝐟 𝐆𝐢𝐭𝐇𝐮𝐛 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 𝐭𝐡𝐚𝐭 𝐰𝐢𝐥𝐥 𝐫𝐞𝐚𝐥𝐥𝐲 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐭𝐨 𝐚𝐝𝐯𝐚𝐧𝐜𝐞 𝐲𝐨𝐮𝐫 𝐜𝐚𝐫𝐞𝐞𝐫 𝐢𝐧 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐃𝐞𝐯𝐎𝐩𝐬, 𝐒𝐑𝐄 𝐚𝐧𝐝 𝐦𝐨𝐫𝐞! 📚
+ <h1>Twitter Engineering Blog</h1>
+<p>https://lnkd.in/gRNDHNcH</p>
 
-1. A list of programming tutorials in which aspiring software engineers learn how to build an application from scratch.
+ <h1>Myntra Engineering Blog</h1>
+<p>https://tech.myntra.com/</p>
 
-📌  (https://lnkd.in/enxAaRv4)
+ <h1>Flipkart Engineering Blog</h1>
+<p>https://lnkd.in/gukdB3Tz</p>
 
+ <h1>Tinder Engineering Blog</h1>
+<p>https://medium.com/tinder</p>
 
-4. Learn how to design large-scale systems
+ <h1>Pinterest Engineering Blog</h1>
+<p>https://lnkd.in/g7DWBCqn</p>
 
-📌  (https://lnkd.in/e4q_gmGK)
+ <h1>Slack Engineering Blog</h1>
+<p>https://slack.engineering/</p>
 
+<h1>𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐚 𝐜𝐮𝐫𝐚𝐭𝐞𝐝 𝐥𝐢𝐬𝐭 𝐨𝐟 𝐆𝐢𝐭𝐇𝐮𝐛 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬 𝐭𝐡𝐚𝐭 𝐰𝐢𝐥𝐥 𝐫𝐞𝐚𝐥𝐥𝐲 𝐡𝐞𝐥𝐩 𝐲𝐨𝐮 𝐭𝐨 𝐚𝐝𝐯𝐚𝐧𝐜𝐞 𝐲𝐨𝐮𝐫 𝐜𝐚𝐫𝐞𝐞𝐫 𝐢𝐧 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐃𝐞𝐯𝐎𝐩𝐬, 𝐒𝐑𝐄 𝐚𝐧𝐝 𝐦𝐨𝐫𝐞! 📚</h1>
 
-6. A study guide for Software Engineers looking to get better at Data Structures & Algorithms
+<h1>1. A list of programming tutorials in which aspiring software engineers learn how to build an application from scratch.</h1>
 
-📌  (https://lnkd.in/eHfVhAHA)
+<p> https://lnkd.in/enxAaRv4</p>
 
-7. A collection of (mostly) technical things every developer should aim to know
 
-📌 (https://lnkd.in/eYvUChpG)
+<h1>4. Learn how to design large-scale systems</h1>
 
+<p>📌  (https://lnkd.in/e4q_gmGK)</p>
 
-10. Curated collection of resources for frontend web developers
 
-📌 (https://lnkd.in/ekShjrRQ)
+<h1>6. A study guide for Software Engineers looking to get better at Data Structures & Algorithms</h1>
 
-11. Learn Software Architecture, Design patterns, DDD, SOLID principles and good software practices
+<p>📌  (https://lnkd.in/eHfVhAHA)</p>
 
-📌  (https://lnkd.in/eK4vFGf9)
+<h1>7. A collection of (mostly) technical things every developer should aim to know</h1>
 
-12. A set of guidelines for best practices, styles and methods for various programming languages.
+<p>📌 (https://lnkd.in/eYvUChpG)</p>
 
-📌  (https://lnkd.in/ewc85mED)
 
-***********************************************************************************************************************
+<h1>10. Curated collection of resources for frontend web developers</h1>
 
-*********************************************************************************************************************
-Important papers
+<p>📌 (https://lnkd.in/ekShjrRQ)</p>
 
-Dynamo: Amazon's Highly Available Key-value Store
-https://lnkd.in/
+<h1>11. Learn Software Architecture, Design patterns, DDD, SOLID principles and good software practices</h1>
 
-🔹BigTable
-https://lnkd.in/g7MEFuiY
+<p>📌  (https://lnkd.in/eK4vFGf9)</p>
 
-🔹Cassandra
-https://lnkd.in/dQ2sFfXT
+<h1>12. A set of guidelines for best practices, styles and methods for various programming languages.</h1>
 
-🔹Hadoop Distributed File System
-https://lnkd.in/dxRUaNfa
+<p>📌  (https://lnkd.in/ewc85mED)</p>
 
-🔹Google File System
-https://lnkd.in/gvk8eXtm
 
-🔹Kafka
-https://lnkd.in/gUe-4dn2
+<h1>Important papers</h1>
 
-🔹CockroachDB
-https://lnkd.in/gr3NJvJc
+<h1>Dynamo: Amazon's Highly Available Key-value Store</h1>
+<p>https://lnkd.in/</p>
 
+<h1>🔹BigTable</h1>
+<p>https://lnkd.in/g7MEFuiY</p>
 
-***********************************************************************************************************************
-***********************************************************************************************************************
+<h1>🔹Cassandra</h1>
+<p>https://lnkd.in/dQ2sFfXT</p>
 
-1-Kafka Basics
-❄️ http://bit.ly/3gCdWSe
-❄️http://bit.ly/3EWDnpV
+<h1>🔹Hadoop Distributed File System</h1>
+<p>https://lnkd.in/dxRUaNfa</p>
 
-2-Kafka Producer
-❄️ http://bit.ly/3gxgctS
+<h1>🔹Google File System</h1>
+<p>https://lnkd.in/gvk8eXtm</p>
 
-3-Kafka Stream
-❄️http://bit.ly/3XzJB7i
+<h1>🔹Kafka</h1>
+<p>https://lnkd.in/gUe-4dn2</p>
 
-4-KSQL
-❄️http://bit.ly/3XAGegr
+<h1>🔹CockroachDB</h1>
+<p>https://lnkd.in/gr3NJvJc</p>
 
-5-Kafka Connect
-❄️http://bit.ly/3GKUiyb
 
-6- Python
-❄️ http://bit.ly/3CoFlhp
 
-7- Java Basic
-❄️http://bit.ly/3UbVDkl
+<h1>1-Kafka Basics</h1>
+<p>❄️ http://bit.ly/3gCdWSe</p>
+<p>❄️http://bit.ly/3EWDnpV</p>
 
-8-Docker
-❄️ https://bit.ly/3VlE2rg
+<h1>2-Kafka Producer</h1>
+<p>❄️ http://bit.ly/3gxgctS</p>
 
-9-ProjectgTadx7kn
-❄️ http://bit.ly/3iezjcR
+<h1>3-Kafka Stream</h1>
+<p>❄️http://bit.ly/3XzJB7i</p>
 
-**********************************************************************************************************************
+<h1>4-KSQL</h1>
+<p>❄️http://bit.ly/3XAGegr</p>
 
-*******************************************
-https://github.com/karanpratapsingh/system-design#next-steps
+<h1>5-Kafka Connect</h1>
+<p>❄️http://bit.ly/3GKUiyb</p>
 
-https://kps.hashnode.dev/system-design-the-complete-course
-*******************************************************************************************************************************************************************
-*****************************************************************************************************************************************************************
-Airbnb: https://lnkd.in/dC-aHMy2
+<h1>6- Python</h1>
+<p>❄️ http://bit.ly/3CoFlhp</p>
 
-Atlassian: https://lnkd.in/dgiama9Q
+<h1>7- Java Basic</h1>
+<p>❄️http://bit.ly/3UbVDkl</p>
 
-Dropbox: https://dropbox.tech/
+<h1>8-Docker</h1>
+<p>❄️ https://bit.ly/3VlE2rg</p>
 
-Meta: https://lnkd.in/dUpizyy7
+<h1>9-ProjectgTadx7kn</h1>
+<p>❄️ http://bit.ly/3iezjcR</p>
 
-GitHub: https://lnkd.in/db3AxDg8
 
-Google: https://lnkd.in/dPhZdkFe
+<p>https://github.com/karanpratapsingh/system-design#next-steps</p>
 
-Instagram: https://lnkd.in/dwXUeZg6
+<p>https://kps.hashnode.dev/system-design-the-complete-course</p>
 
-Linkedin: https://lnkd.in/djxTkz7v
+<p>Airbnb: https://lnkd.in/dC-aHMy2</p>
 
-Netflix: https://lnkd.in/dW9fcqxD
+<p>Atlassian: https://lnkd.in/dgiama9Q</p>
 
-PayPal: https://lnkd.in/dx4w6682
+<p>Dropbox: https://dropbox.tech/</p>
 
-Pinterest: https://lnkd.in/djQzgKRZ
+<p>Meta: https://lnkd.in/dUpizyy7</p>
 
-Quora: https://lnkd.in/djUjDjTV
+<p>GitHub: https://lnkd.in/db3AxDg8</p>
 
-Reddit: https://lnkd.in/d_9zeUtA
+<p>Google: https://lnkd.in/dPhZdkFe</p>
 
-Shopify: https://lnkd.in/d2NhrVK3
+<p>Instagram: https://lnkd.in/dwXUeZg6</p>
 
-Slack: https://slack.engineering
+<p>Linkedin: https://lnkd.in/djxTkz7v</p>
 
-Twitter: https://lnkd.in/dFxdurgr
+<p>Netflix: https://lnkd.in/dW9fcqxD</p>
 
-Uber: https://lnkd.in/ds6bpCtj
+<p>PayPal: https://lnkd.in/dx4w6682</p>
 
-Yelp: https://lnkd.in/d_kH_tpG
+<p>Pinterest: https://lnkd.in/djQzgKRZ</p>
 
-Zoom: https://lnkd.in/d8MRCE43
-****************************************************************************************************************************************************************
-*****************************************************************************************************************************************************************
+<p>Quora: https://lnkd.in/djUjDjTV</p>
 
-Dynamo: Amazon’s Highly Available Key-value Store
-https://lnkd.in/gTadx7kn
+<p>Reddit: https://lnkd.in/d_9zeUtA</p>
 
-BigTable
-https://lnkd.in/g7MEFuiY
+<p>Shopify: https://lnkd.in/d2NhrVK3</p>
 
-CockroachDB
-https://lnkd.in/gr3NJvJc
+<p>Slack: https://slack.engineering</p>
 
-Kafka
-https://lnkd.in/gUe-4dn2
+<p>Twitter: https://lnkd.in/dFxdurgr</p>
 
-Google File System
-https://lnkd.in/gvk8eXtm
+<p>Uber: https://lnkd.in/ds6bpCtj</p>
 
-[Bonus] The Log: What every software engineer should know about real-time data's unifying abstraction
-https://lnkd.in/grgZ8yZY
+<p>Yelp: https://lnkd.in/d_kH_tpG</p>
 
-********************************************************************************************************************************************************************
-*******************************************************************************************************************************************************************
-https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/
+<p>Zoom: https://lnkd.in/d8MRCE43</p>
 
-https://khalilstemmler.com/letters/3-steps-to-solve-most-design-problems/
 
+<h1>Dynamo: Amazon’s Highly Available Key-value Store</h1>
+<p>https://lnkd.in/gTadx7kn</p>
 
-https://github.com/stemmlerjs
-******************************************************************************************************************************************************************
+<h1>BigTable</h1>
+<p>https://lnkd.in/g7MEFuiY</p>
 
-********************************************************************************************************************************************************************
-"How we store and process millions of orders daily at #grab"
-Grab : https://engineering.grab.com/how-we-store-millions-orders
-********************************************************************************************************************************************************************
+<h1>CockroachDB</h1>
+<p>https://lnkd.in/gr3NJvJc</p>
 
-*****************************************************************************************************************************************************************************************************************************************************************************************************************************************
+<h1>Kafka</h1>
+<p>https://lnkd.in/gUe-4dn2</p>
 
-https://github.com/resumejob/system-design-algorithms
+<h1>Google File System</h1>
+<p>https://lnkd.in/gvk8eXtm</p>
 
-https://sre.google/
+<h1>[Bonus] The Log: What every software engineer should know about real-time data's unifying abstraction</h1>
+<p>https://lnkd.in/grgZ8yZY</p>
 
-https://netflixtechblog.com/
+<p>https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/</p>
 
-https://medium.com/airbnb-engineering
+<p>https://khalilstemmler.com/letters/3-steps-to-solve-most-design-problems/</p>
 
-https://slack.engineering/
 
-https://www.uber.com/en-IN/blog/bangalore/engineering/
+<p>https://github.com/stemmlerjs</p>
 
-https://blog.twitter.com/engineering/en_us
+<h1>"How we store and process millions of orders daily at #grab"</h1>
+<p>Grab : https://engineering.grab.com/how-we-store-millions-orders</p>
 
 
+<p>https://github.com/resumejob/system-design-algorithms</p>
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+<p>https://sre.google/</p>
 
-https://github.com/jwasham/coding-interview-university
+<p>https://netflixtechblog.com/</p>
 
-https://github.com/yangshun/tech-interview-handbook
+<p>https://medium.com/airbnb-engineering</p>
 
-https://github.com/donnemartin/system-design-primer
+<p>https://slack.engineering/</p>
 
-https://github.com/vasanthk/how-web-works
+<p>https://www.uber.com/en-IN/blog/bangalore/engineering/</p>
 
-https://github.com/DopplerHQ/awesome-interview-questions
+<p>https://blog.twitter.com/engineering/en_us</p>
 
 
-https://github.com/dennyzhang/cheatsheet.dennyzhang.com
 
 
-*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+<p>https://github.com/jwasham/coding-interview-university</p>
 
-https://get.interviewready.io/blog/interviewready-20-system-design
+<p>https://github.com/yangshun/tech-interview-handbook</p>
 
-https://github.com/InterviewReady/system-design-resources
+<p>https://github.com/donnemartin/system-design-primer</p>
 
-https://github.com/prasadgujar/low-level-design-primer
+<p>https://github.com/vasanthk/how-web-works</p>
 
+<p>https://github.com/DopplerHQ/awesome-interview-questions</p>
 
-https://github.com/InterviewReady/system-design-resources
 
-https://levelup.gitconnected.com/100-essential-systems-design-concepts-that-every-developer-must-know-part-1-1318c2c402ca
+<p>https://github.com/dennyzhang/cheatsheet.dennyzhang.com</p>
 
-100 Essential Systems Design Concepts That Every Developer Must Know (Part 1: 1–10) :
 
-https://levelup.gitconnected.com/100-essential-systems-design-concepts-that-every-developer-must-know-part-1-1318c2c402ca
 
-Top 30 System Design Interview Questions and Problems for Programmers and Software Engineers :
 
-https://faun.pub/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67
+<p>https://get.interviewready.io/blog/interviewready-20-system-design</p>
 
-https://github.com/Amanhacker/system-design-resources
-https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4
+<p>https://github.com/InterviewReady/system-design-resources</p>
 
-*******************************************************************************************************************************************************************
-What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?
+<p>https://github.com/prasadgujar/low-level-design-primer</p>
+
+
+<p>https://github.com/InterviewReady/system-design-resources</p>
+
+<p>https://levelup.gitconnected.com/100-essential-systems-design-concepts-that-every-developer-must-know-part-1-1318c2c402ca</p>
+
+<h1>100 Essential Systems Design Concepts That Every Developer Must Know (Part 1: 1–10) :</h1>
+
+<p>https://levelup.gitconnected.com/100-essential-systems-design-concepts-that-every-developer-must-know-part-1-1318c2c402ca</p>
+
+<h1>Top 30 System Design Interview Questions and Problems for Programmers and Software Engineers :</h1>
+
+<p>https://faun.pub/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67</p>
+
+<p>https://github.com/Amanhacker/system-design-resources
+https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4</p>
+
+
+<h1>What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?
 
 General People:
 
@@ -562,20 +538,24 @@ Robert Konigsberg - Who helped me truly find my voice.
 Titus Winters - Who has given me so much support and opportunity over the years.
 George Fairbanks - Whose deep thoughts on the craft of software development have caused me to think much more deeply about the work I do.
 Michelle Levesque - Who probably doesn’t remember me, but she showed me what authentic and inspired technical leadership can look like.
+<h1>
 
-*******************************************************************************************************************************************************************
-*******************************************************************************************************************************************************************
+<h1>5 papers that every senior backend engineer should read.</h1>
 
-5 papers that every senior backend engineer should read.
+<h1>Harvest, Yield and Scalable Tolerant Systems - </h1>
+<p>https://lnkd.in/gX_Up2p4</p>
 
-Harvest, Yield and Scalable Tolerant Systems - https://lnkd.in/gX_Up2p4
+<h1>On Designing and Deploying Internet Scale Services - </h1>
+<p>https://lnkd.in/gA5mgzXv</p>
 
-On Designing and Deploying Internet Scale Services - https://lnkd.in/gA5mgzXv
+<h1>Data on the Outside versus Data on the Inside - </h1>
+<p>https://lnkd.in/g5HU9cAC</p>
 
-Data on the Outside versus Data on the Inside - https://lnkd.in/g5HU9cAC
+<h1>Building on Quicksand - </h1>
+<p>https://lnkd.in/gmWnJBVX</p>
 
-Building on Quicksand - https://lnkd.in/gmWnJBVX
+<h1>A Note on Distributed Computing - </h1>
+<p>https://lnkd.in/gxEkVgDC</p>
 
-A Note on Distributed Computing - https://lnkd.in/gxEkVgDC
-
-*******************************************************************************************************************************************************************
+</body>
+</html>
