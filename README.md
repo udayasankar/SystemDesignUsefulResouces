@@ -42,26 +42,26 @@
   <p>👉 Storage estimates</p>
   <p>👉 Memory estimates</p>
 
-✅ 𝐀𝐏𝐈 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)
-  👉 Outline the different APIs for required scenarios
+<p>✅ 𝐀𝐏𝐈 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)</p>
+  <p>👉 Outline the different APIs for required scenarios</p>
  
-✅ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐜𝐡𝐞𝐦𝐚 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)
-    👉 Identify the type of database (SQL or NoSQL)
-    👉 Design schema like tables/columns and relationships with other tables (SQL)
+<p>✅ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐜𝐡𝐞𝐦𝐚 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)</p>
+    <p>👉 Identify the type of database (SQL or NoSQL)</p>
+    <p>👉 Design schema like tables/columns and relationships with other tables (SQL)</p>
 
-✅ 𝐒𝐲𝐬𝐭𝐞𝐦'𝐬 𝐃𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 (20 - 25 𝐦𝐢𝐧)
-(a) Draw/Explain high-level components of the system involving below (if required) components -
-   👉 Client (Mobile, Browser)
-   👉 DNS
-   👉 CDN
-   👉 Load Balancers
-   👉 Web / Application Servers
-   👉 Microservices
-   👉 Blob/Object Storage
-   👉 Proxy/Reverse Proxy
-   👉 Database (SQL or NoSQL)
-   👉 Cache at various levels (Client side, CDN, Server side, Database side, Application level caching)
-   👉 Messaging Queues for asynchronous communication
+<p>✅ 𝐒𝐲𝐬𝐭𝐞𝐦'𝐬 𝐃𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 (20 - 25 𝐦𝐢𝐧)</p>
+<p>(a) Draw/Explain high-level components of the system involving below (if required) components -</p>
+   <p>👉 Client (Mobile, Browser)</p>
+   <p>👉 DNS</p>
+   <p>👉 CDN</p>
+   <p>👉 Load Balancers</p>
+   <p>👉 Web / Application Servers</p>
+   <p>👉 Microservices</p>
+   <p>👉 Blob/Object Storage</p>
+   <p>👉 Proxy/Reverse Proxy</p>
+   <p>👉 Database (SQL or NoSQL)</p>
+   <p>👉 Cache at various levels (Client side, CDN, Server side, Database side, Application level caching)</p>
+   <p>👉 Messaging Queues for asynchronous communication</p>
 
  (b) Identification of algorithm/data structures and ways to scale them
  (c) Scaling individual components - Horizontal & Vertical Scaling
