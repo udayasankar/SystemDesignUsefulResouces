@@ -23,24 +23,24 @@
 <h1>A System Design Interview usually lasts for 45-60 minutes. The following template will guide you on how to manage time duration in a System Design Interview -</h1>
 
 <p>
-✅ 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭 𝐂𝐥𝐚𝐫𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 - (3-5 𝐦𝐢𝐧)
-Ask clarifying questions to understand the problem and expectations of the interviewer.
-  𝐚) 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
-   👉 Focussed use cases to cover (MVP)
-   👉 Use cases that will not be covered
-   👉 Who/How will use the system
-   👉 Total/Daily active users
-  𝐛) 𝐍𝐨𝐧 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
-   👉 Is the system Highly Available or Highly Consistent? CAP theorem?
-   👉 Does the system requires low latency?
-   👉 Does the system needs to be reliable?
+✅ 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭 𝐂𝐥𝐚𝐫𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 - (3-5 𝐦𝐢𝐧)</p>
+<p>Ask clarifying questions to understand the problem and expectations of the interviewer.</p>
+  <p>𝐚) 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬</p>
+   <p>👉 Focussed use cases to cover (MVP)</p>
+   <p>👉 Use cases that will not be covered</p>
+   <p>👉 Who/How will use the system</p>
+   <p>👉 Total/Daily active users</p>
+  <p>𝐛) 𝐍𝐨𝐧 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬</p>
+   <p>👉 Is the system Highly Available or Highly Consistent? CAP theorem?</p>
+   <p>👉 Does the system requires low latency?</p>
+   <p>👉 Does the system needs to be reliable?</p>
   
-✅ 𝐄𝐬𝐭𝐢𝐦𝐚𝐭𝐢𝐨𝐧𝐬 (3-5 𝐦𝐢𝐧)
-  👉 Latency/Throughput expectations
-  👉 QPS (Queries Per Second) Read/Write ratio
-  👉 Traffic estimates
-  👉 Storage estimates
-  👉 Memory estimates
+<p>✅ 𝐄𝐬𝐭𝐢𝐦𝐚𝐭𝐢𝐨𝐧𝐬 (3-5 𝐦𝐢𝐧)<p>
+  <p>👉 Latency/Throughput expectations</p>
+  <p>👉 QPS (Queries Per Second) Read/Write ratio</p>
+  <p>👉 Traffic estimates</p>
+  <p>👉 Storage estimates</p>
+  <p>👉 Memory estimates</p>
 
 ✅ 𝐀𝐏𝐈 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)
   👉 Outline the different APIs for required scenarios
