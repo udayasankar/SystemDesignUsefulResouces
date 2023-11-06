@@ -4,6 +4,7 @@
 
 75 Engineering blogs worth reading to improve your system design:
 
+https://developers.redhat.com/
 High Scalability https://lnkd.in/eQ4eDw4E
 Engineering at Meta https://lnkd.in/e8tiSkEv
 AWS Architecture Blog https://lnkd.in/eEchKJif
