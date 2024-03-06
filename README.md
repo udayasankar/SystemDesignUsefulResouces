@@ -2,61 +2,67 @@
 <html>
 <body style="background-color:powderblue;">
 
-75 Engineering blogs worth reading to improve your system design:
+<h1>Distributed Compting Basics</h1>
+<p>https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB</p>
+<p>https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf</p>
+<p>https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-slides.pdf</p>
 
-https://developers.redhat.com/
-High Scalability https://lnkd.in/eQ4eDw4E
-Engineering at Meta https://lnkd.in/e8tiSkEv
-AWS Architecture Blog https://lnkd.in/eEchKJif
-All Things Distributed https://lnkd.in/emXaQDaS
-The Nextflix Tech Blog https://lnkd.in/efPuR39b
-LinkedIn Engineering Blog https://lnkd.in/ehaePQth
-Uber Engineering Blog https://eng.uber.com/
-Engineering at Quora https://lnkd.in/em-WkhJd
-Pinterest Engineering https://lnkd.in/esBTntjq
-Lyft Engineering Blog https://eng.lyft.com/
-Twitter Engineering Blog https://lnkd.in/evMFNhEs
-Dropbox Engineering Blog https://dropbox.tech/
-Spotify Engineering https://lnkd.in/eJerVRQM
-Github Engineering https://lnkd.in/eCADWt8x
-Instagram Engineering https://lnkd.in/e7Gag8m5
-Canva Engineering Blog https://canvatechblog.com/
-Etsy Engineering https://lnkd.in/eddzzKRt
-Booking.com Tech Blog https://blog.booking.com/
-Expedia Technology https://lnkd.in/ehjuBE5J
-The Airbnb Tech Blog https://lnkd.in/emGrJbGM
-Stripe Engineering Blog https://lnkd.in/em6Svgyx
-Ebay Tech Blog https://tech.ebayinc.com/
-Flickr's Tech Blog https://code.flickr.net/
-Hubspot Product and Engineering Blog https://lnkd.in/eRGZkBd4
-Zynga Engineering https://lnkd.in/eex5Ddry
-Yelp Engineering Blog https://lnkd.in/epgBW_4J
-Heroku Engineering Blog https://lnkd.in/evgctQjh
-Discord Engineering and Design https://lnkd.in/evY4gpUA
-Zomato https://lnkd.in/e9gf3APD
-Hotstar https://blog.hotstar.com/
-Swiggy https://bytes.swiggy.com/
-Acast Tech https://lnkd.in/esuCEYZb
-ASOS Tech Blog https://lnkd.in/esXfdv3G
-Shopify Engineering https://lnkd.in/evvnqQTj
-Microsoft Tech Blogs https://lnkd.in/etw_7_bN
-Engineering at Microsoft https://lnkd.in/eEKz4ECi
-MongoDB Engineering Blog https://lnkd.in/e9iaqcmZ
-Slack Engineering https://slack.engineering/
-DoorDash Engineering https://lnkd.in/ep5raBZv
-Akamai https://lnkd.in/ey_dtA7C
-Expedia Technology https://lnkd.in/ehjuBE5J
-Reddit Engineering https://lnkd.in/e4E_XzaX
-Snap Engineering https://eng.snap.com/blog
-CloudFlare https://lnkd.in/exEsYAx5
-Engineering at Depop https://lnkd.in/eGjRYcFd
-SourceDiving (Cookpad's Engineering Blog https://sourcediving.com/
-Auto Trader Engineering Blog https://lnkd.in/eGDKA_g3
-Indeed Engineering Blog https://lnkd.in/ecFS87Dt
-Gusto Engineering Blog https://lnkd.in/e7yVxDKs
-Engineering at Birdie https://lnkd.in/eUqJTpje
 
-Out of characters, so the other 25 are here: https://lnkd.in/ekhdFT3t
+<h1>75 Engineering blogs worth reading to improve your system design:</h1>
+
+<p>https://developers.redhat.com/</p>
+<p>High Scalability https://lnkd.in/eQ4eDw4E</p>
+<p>Engineering at Meta https://lnkd.in/e8tiSkEv</p>
+<p>AWS Architecture Blog https://lnkd.in/eEchKJif</p>
+<p>All Things Distributed https://lnkd.in/emXaQDaS</p>
+<p>The Nextflix Tech Blog https://lnkd.in/efPuR39b</p>
+<p>LinkedIn Engineering Blog https://lnkd.in/ehaePQth</p>
+<p>Uber Engineering Blog https://eng.uber.com/</p>
+<p>Engineering at Quora https://lnkd.in/em-WkhJd</p>
+<p>Pinterest Engineering https://lnkd.in/esBTntjq</p>
+<p>Lyft Engineering Blog https://eng.lyft.com/</p>
+<p>Twitter Engineering Blog https://lnkd.in/evMFNhEs</p>
+<p>Dropbox Engineering Blog https://dropbox.tech/</p>
+<p>Spotify Engineering https://lnkd.in/eJerVRQM</p>
+<p>Github Engineering https://lnkd.in/eCADWt8x</p>
+<p>Instagram Engineering https://lnkd.in/e7Gag8m5</p>
+<p>Canva Engineering Blog https://canvatechblog.com/</p>
+<p>Etsy Engineering https://lnkd.in/eddzzKRt</p>
+<p>Booking.com Tech Blog https://blog.booking.com/</p>
+<p>Expedia Technology https://lnkd.in/ehjuBE5J</p>
+<p>The Airbnb Tech Blog https://lnkd.in/emGrJbGM</p>
+<p>Stripe Engineering Blog https://lnkd.in/em6Svgyx</p>
+<p>Ebay Tech Blog https://tech.ebayinc.com/</p>
+<p>Flickr's Tech Blog https://code.flickr.net/</p>
+<p>Hubspot Product and Engineering Blog https://lnkd.in/eRGZkBd4</p>
+<p>Zynga Engineering https://lnkd.in/eex5Ddry</p>
+<p>Yelp Engineering Blog https://lnkd.in/epgBW_4J</p>
+<p>Heroku Engineering Blog https://lnkd.in/evgctQjh</p>
+<p>Discord Engineering and Design https://lnkd.in/evY4gpUA</p>
+<p>Zomato https://lnkd.in/e9gf3APD</p>
+<p>Hotstar https://blog.hotstar.com/</p>
+<p>Swiggy https://bytes.swiggy.com/</p>
+<p>Acast Tech https://lnkd.in/esuCEYZb</p>
+<p>ASOS Tech Blog https://lnkd.in/esXfdv3G</p>
+<p>Shopify Engineering https://lnkd.in/evvnqQTj</p>
+<p>Microsoft Tech Blogs https://lnkd.in/etw_7_bN</p>
+<p>Engineering at Microsoft https://lnkd.in/eEKz4ECi</p>
+<p>MongoDB Engineering Blog https://lnkd.in/e9iaqcmZ</p>
+<p>Slack Engineering https://slack.engineering/</p>
+<p>DoorDash Engineering https://lnkd.in/ep5raBZv</p>
+<p>Akamai https://lnkd.in/ey_dtA7C</p>
+<p>Expedia Technology https://lnkd.in/ehjuBE5J</p>
+<p>Reddit Engineering https://lnkd.in/e4E_XzaX</p>
+<p>Snap Engineering https://eng.snap.com/blog</p>
+<p>CloudFlare https://lnkd.in/exEsYAx5</p>
+<p>Engineering at Depop https://lnkd.in/eGjRYcFd</p>
+<p>SourceDiving (Cookpad's Engineering Blog https://sourcediving.com/</p>
+<p>Auto Trader Engineering Blog https://lnkd.in/eGDKA_g3</p>
+<p>Indeed Engineering Blog https://lnkd.in/ecFS87Dt</p>
+<p>Gusto Engineering Blog https://lnkd.in/e7yVxDKs</p>
+<p>Engineering at Birdie https://lnkd.in/eUqJTpje</p>
+
+<p>Out of characters, so the other 25 are here: https://lnkd.in/ekhdFT3t
 
 
 <h1>System design resources<h1>
