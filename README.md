@@ -701,41 +701,41 @@
 https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4</p>
 
 
-<h1>What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?
+<h1>What are some resources (books, blogs, people, etc) you’ve learned from? Who are your role models in the field?</h1>
 
-General People:
+<p>General People:</p>
 
-Martin Fowler - A legend in this industry. So much of my early career was influenced by his thinking.
-danah boyd - such great insights into the (not always great) impact of technology on people.
-Brett Victor - I sometimes feel like he has been given a gift from the future and we are just finding out about it now.
-Randall Monroe - He has such a gift for making the (highly technical) absurdities of our world so easy to laugh at.
-Neal Ford (from thoughtworks) - Truly excellent communicator. He inspired me to learn how to give a better tech talk.
-Venkat Subramaniam (from Agile Developer) - Similar to Neal, Venkat has such energy and a passion for his craft.
-Books:
+<p>Martin Fowler - A legend in this industry. So much of my early career was influenced by his thinking.</p>
+<p>danah boyd - such great insights into the (not always great) impact of technology on people.</p>
+<p>Brett Victor - I sometimes feel like he has been given a gift from the future and we are just finding out about it now.</p>
+<p>Randall Monroe - He has such a gift for making the (highly technical) absurdities of our world so easy to laugh at.</p>
+<p>Neal Ford (from thoughtworks) - Truly excellent communicator. He inspired me to learn how to give a better tech talk.</p>
+<p>Venkat Subramaniam (from Agile Developer) - Similar to Neal, Venkat has such energy and a passion for his craft.
+Books:</p>
 
-The Design of Everyday Things
-Clean Code
-Growing Object Oriented Software Guided by Tests
-The Pragmatic Programmer
-Working Effectively with Legacy Code
-Refactoring
-Object Thinking
-Godel, Escher, Bach - This one can be controversial, but it really got me to stretch the way I think about computing and that in itself is worth a lot.
-Blogs/Podcasts:
+<p>The Design of Everyday Things</p>
+<p>Clean Code</p>
+<p>Growing Object Oriented Software Guided by Tests</p>
+<p>The Pragmatic Programmer</p>
+<p>Working Effectively with Legacy Code</p>
+<p>Refactoring</p>
+<p>Object Thinking</p>
+<p>Godel, Escher, Bach - This one can be controversial, but it really got me to stretch the way I think about computing and that in itself is worth a lot.</p>
+<p>Blogs/Podcasts:</p>
 
-High Scalability
-InfoQ (used to have a ton of great videos from so many conferences)
-infrequently.org
-Stratechery
-apenwarr.ca
-Thoughtworks Podcast
-Googlers who've inspired me:
+<p>High Scalability</p>
+<p>InfoQ (used to have a ton of great videos from so many conferences)</p>
+<p>infrequently.org</p>
+<p>Stratechery</p>
+<p>apenwarr.ca</p>
+<p>Thoughtworks Podcast
+<p>Googlers who've inspired me:</p>
 
-Robert Konigsberg - Who helped me truly find my voice.
-Titus Winters - Who has given me so much support and opportunity over the years.
-George Fairbanks - Whose deep thoughts on the craft of software development have caused me to think much more deeply about the work I do.
-Michelle Levesque - Who probably doesn’t remember me, but she showed me what authentic and inspired technical leadership can look like.
-<h1>
+<p>Robert Konigsberg - Who helped me truly find my voice.</p>
+<p>Titus Winters - Who has given me so much support and opportunity over the years.</p>
+<p>George Fairbanks - Whose deep thoughts on the craft of software development have caused me to think much more deeply about the work I do.</p>
+<p>Michelle Levesque - Who probably doesn’t remember me, but she showed me what authentic and inspired technical leadership can look like.</p>
+<
 
 <h1>5 papers that every senior backend engineer should read.</h1>
 
