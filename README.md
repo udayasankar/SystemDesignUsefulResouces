@@ -2,6 +2,57 @@
 <html>
 <body style="background-color:powderblue;">
 
+
+<h1>Scalability Design URLS</h1>
+
+<p>1. Uber Time Series DB: https://lnkd.in/dzpbrmAw</p>
+
+<p>2. Airbnb Idempotency: https://lnkd.in/dmnevUzk</p>
+
+<p>3. Facebook Cluster Management: https://lnkd.in/dyB_rVRU</p>
+
+<p>4. Google Autopilot - Autoscaling: https://lnkd.in/dsY3u5VM</p>
+
+<p>5. Netflix Workflow Orchestration: https://lnkd.in/dZcfsTxZ</p>
+
+<p>6. Opensource WorkflowManagement: https://lnkd.in/d3RqkjDq</p>
+
+<p>7. Facebook Video Broadcasting: 
+https://lnkd.in/dvnXntNF</p>
+
+<p>8. LinkedIn Brooklin- Real time data streaming: 
+https://lnkd.in/dfbFcB2r</p>
+
+<p>9. Amazon S3 Performance hacks: 
+https://lnkd.in/dFgxQifh</p>
+
+<p>10. Amazon S3 object expiration:
+ https://lnkd.in/ddb5RPgg</p>
+
+<p>11. Circuit Breaker Algorithm: 
+https://lnkd.in/dtMAgFgN</p>
+
+<p>12. Caching strategies at Twitter: https://lnkd.in/dUAque7i</p>
+
+<p>13. Improving Multi-CDN Delivery on Netflix: https://lnkd.in/dSBVbBMz</p>
+
+<p>14. Amazon Physalia - Millions of tiny databases: https://lnkd.in/dbaUXqcy</p>
+
+<p>15. Airbnb Microservice Architecture - https://lnkd.in/duzNCmqw</p>
+
+<p>16. Evolution of the Netflix API Architecture - https://lnkd.in/dKgZnWsD</p>
+
+<p>17. How Zapier Automates Billions of Tasks - https://lnkd.in/d74kktbV</p>
+
+<p>18. How LinkedIn Scaled to 930 Million Users - https://lnkd.in/dSCZG9bx</p>
+
+<p>19. How Pinterest scaled to 11 million users with only 6 engineers - https://lnkd.in/drx93zhb</p>
+
+<p>20. How Instagram scaled to 14 million users with only 3 engineers - https://lnkd.in/dJ54KJne</p>
+
+<p>21. Intro to Change Data Capture: https://lnkd.in/dsk4gv5d</p>
+
+
 <h1>Doordash</h1>
 <p>https://doordash.engineering/category/backend/</p>
 
