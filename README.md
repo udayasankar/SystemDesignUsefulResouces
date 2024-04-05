@@ -4,8 +4,26 @@
 
 <h1>Awesome system design concepts</h1>
 <table>
- <th>NO</th>
- <th>URLS</th>
+  <tr>
+    <th>No</th>
+    <th>Notes</th>
+    <th>URLS</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Awesome System Design</td>
+    <td>https://github.com/ashishps1/awesome-system-design-resources</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>developer roadmap</td>
+    <td>https://github.com/kamranahmedse/developer-roadmap</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>System design newsletter</td>
+    <td>https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies</td>
+  </tr>
 </table>
 
 
