@@ -2,6 +2,9 @@
 <html>
 <body style="background-color:powderblue;">
 
+https://research.google/teams/
+https://rclayton.silvrback.com/use-state-machines
+
 <h1>Awesome system design concepts</h1>
 <table>
   <tr>
