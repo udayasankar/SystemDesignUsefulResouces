@@ -46,7 +46,7 @@
    <tr>
     <td>3</td>
     <td>The Nextflix Tech Blog </td>
-    <td>[https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies](https://lnkd.in/efPuR39b)</td>
+    <td>https://lnkd.in/efPuR39b</td>
   </tr>
 </table>
 
