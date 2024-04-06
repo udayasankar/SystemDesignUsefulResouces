@@ -16,8 +16,8 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>developer roadmap</td>
-    <td>https://github.com/kamranahmedse/developer-roadmap</td>
+    <td>AWS Architecture Blog</td>
+    <td>https://lnkd.in/eEchKJif</td>
   </tr>
    <tr>
     <td>3</td>
@@ -26,7 +26,29 @@
   </tr>
 </table>
 
-
+<h1>75 Engineering blogs worth reading to improve your system design:</h1>
+<table>
+  <tr>
+    <th>No</th>
+    <th>Company</th>
+    <th>URLS</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Engineering at Meta</td>
+    <td>>https://lnkd.in/e8tiSkEv</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>developer roadmap</td>
+    <td>https://github.com/kamranahmedse/developer-roadmap</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td>The Nextflix Tech Blog </td>
+    <td>[https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies](https://lnkd.in/efPuR39b)</td>
+  </tr>
+</table>
 
 <h1>Scalability Design URLS</h1>
 
