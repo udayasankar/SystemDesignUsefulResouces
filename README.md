@@ -5,6 +5,9 @@
 https://research.google/teams/
 https://rclayton.silvrback.com/use-state-machines
 
+<h1>Search Engines Design</h1>
+<p>https://www.youtube.com/@msci541-searchengines3</p>
+
 <h1>Awesome system design concepts</h1>
 <table>
   <tr>
