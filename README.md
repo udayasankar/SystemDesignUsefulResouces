@@ -1,6 +1,16 @@
 # SystemDesignUsefulResouces
 <html>
 <body style="background-color:powderblue;">
+<table>
+  <tr>
+    <td>CS Lectures</td>
+    <td>https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu</td>
+  </tr>
+    <tr>
+    <td>MIT Distributedsystems</td>
+    <td>https://www.youtube.com/@6.824/videos</td>
+  </tr>
+</table>
 
 https://research.google/teams/
 https://rclayton.silvrback.com/use-state-machines
