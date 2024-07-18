@@ -1,6 +1,23 @@
 # SystemDesignUsefulResouces
 <html>
 <body style="background-color:powderblue;">
+
+<table>
+  <th>System Design Resouces and Basics</th>
+  <tr>
+    <td>Donne Martin</td>
+    <td>https://github.com/donnemartin/system-design-primer</td>
+  </tr>
+    <tr>
+    <td>Awesome Scalability</td>
+    <td>https://github.com/binhnguyennus/awesome-scalability</td>
+  </tr>
+      <tr>
+    <td>Awesome System Design</td>
+    <td>https://github.com/ashishps1/awesome-system-design-resources</td>
+  </tr>
+</table>
+  
 <table>
   <tr>
     <td>CS Lectures</td>
