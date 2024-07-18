@@ -3,7 +3,7 @@
 <body style="background-color:powderblue;">
 
 <table>
-  <th>System Design Resources and Basics</th>
+   <caption>System Design Resources and Basics</caption>
   <tr>
     <td>Donne Martin</td>
     <td>https://github.com/donnemartin/system-design-primer</td>
@@ -19,7 +19,7 @@
 </table>
   
 <table>
-  <th>Design Lectures</th>
+ <caption>Design Lectures</caption>
   <tr>
     <td>CS Lectures</td>
     <td>https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu</td>
