@@ -1,279 +1,337 @@
-# System Design Useful Resources
+# SystemDesignUsefulResouces
+<html>
+<body style="background-color:powderblue;">
 
 <table>
    <caption>System Design Resources and Basics</caption>
-   <tr>
-       <th>Resource</th>
-       <th>Link</th>
-   </tr>
-   <tr>
-       <td>Donne Martin</td>
-       <td><a href="https://github.com/donnemartin/system-design-primer">system-design-primer</a></td>
-   </tr>
-   <tr>
-       <td>Awesome Scalability</td>
-       <td><a href="https://github.com/binhnguyennus/awesome-scalability">awesome-scalability</a></td>
-   </tr>
-   <tr>
-       <td>Awesome System Design</td>
-       <td><a href="https://github.com/ashishps1/awesome-system-design-resources">awesome-system-design-resources</a></td>
-   </tr>
+  <tr>
+    <td>Donne Martin</td>
+    <td>https://github.com/donnemartin/system-design-primer</td>
+  </tr>
+    <tr>
+    <td>Awesome Scalability</td>
+    <td>https://github.com/binhnguyennus/awesome-scalability</td>
+  </tr>
+      <tr>
+    <td>Awesome System Design</td>
+    <td>https://github.com/ashishps1/awesome-system-design-resources</td>
+  </tr>
 </table>
-
+  
 <table>
  <caption>Design Lectures</caption>
- <tr>
-       <th>Resource</th>
-       <th>Link</th>
-   </tr>
-   <tr>
-       <td>CS Lectures</td>
-       <td><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu">YouTube Playlist</a></td>
-   </tr>
-   <tr>
-       <td>MIT Distributed Systems</td>
-       <td><a href="https://www.youtube.com/@6.824/videos">YouTube Channel</a></td>
-   </tr>
+  <tr>
+    <td>CS Lectures</td>
+    <td>https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu</td>
+  </tr>
+    <tr>
+    <td>MIT Distributedsystems</td>
+    <td>https://www.youtube.com/@6.824/videos</td>
+  </tr>
 </table>
 
-## Other Resources
-- [Google Research Teams](https://research.google/teams/)
-- [Use State Machines](https://rclayton.silvrback.com/use-state-machines)
+https://research.google/teams/
+https://rclayton.silvrback.com/use-state-machines
 
-# Awesome Microservices
-- [Awesome Microservices](https://github.com/markoa/awesome-microservices)
+<h1>Awesome Microservices</h1>
+<p>https://github.com/markoa/awesome-microservices<p1>
 
-# Search Engines Design
-- [Search Engines Course](https://www.youtube.com/@msci541-searchengines3)
+<h1>Search Engines Design</h1>
+<p>https://www.youtube.com/@msci541-searchengines3</p>
 
-# Awesome System Design Concepts
+<h1>Awesome system design concepts</h1>
 <table>
   <tr>
     <th>No</th>
     <th>Notes</th>
-    <th>URLs</th>
+    <th>URLS</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Awesome System Design</td>
-    <td><a href="https://github.com/ashishps1/awesome-system-design-resources">GitHub</a></td>
+    <td>https://github.com/ashishps1/awesome-system-design-resources</td>
   </tr>
   <tr>
     <td>2</td>
     <td>AWS Architecture Blog</td>
-    <td><a href="https://lnkd.in/eEchKJif">Blog</a></td>
+    <td>https://lnkd.in/eEchKJif</td>
   </tr>
-  <tr>
+   <tr>
     <td>3</td>
-    <td>System Design Newsletter</td>
-    <td><a href="https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies">Newsletter</a></td>
+    <td>System design newsletter</td>
+    <td>https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies</td>
   </tr>
 </table>
 
-# 75 Engineering Blogs Worth Reading
+<h1>75 Engineering blogs worth reading to improve your system design:</h1>
 <table>
   <tr>
     <th>No</th>
     <th>Company</th>
-    <th>URLs</th>
+    <th>URLS</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Engineering at Meta</td>
-    <td><a href="https://lnkd.in/e8tiSkEv">Blog</a></td>
+    <td>>https://lnkd.in/e8tiSkEv</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>Developer Roadmap</td>
-    <td><a href="https://github.com/kamranahmedse/developer-roadmap">GitHub</a></td>
+    <td>developer roadmap</td>
+    <td>https://github.com/kamranahmedse/developer-roadmap</td>
   </tr>
-  <tr>
+   <tr>
     <td>3</td>
-    <td>The Netflix Tech Blog</td>
-    <td><a href="https://lnkd.in/efPuR39b">Blog</a></td>
+    <td>The Nextflix Tech Blog </td>
+    <td>https://lnkd.in/efPuR39b</td>
   </tr>
 </table>
 
-## Scalability Design URLs
-1. [Uber Time Series DB](https://lnkd.in/dzpbrmAw)
-2. [Airbnb Idempotency](https://lnkd.in/dmnevUzk)
-3. [Facebook Cluster Management](https://lnkd.in/dyB_rVRU)
-4. [Google Autopilot - Autoscaling](https://lnkd.in/dsY3u5VM)
-5. [Netflix Workflow Orchestration](https://lnkd.in/dZcfsTxZ)
-6. [Open-source Workflow Management](https://lnkd.in/d3RqkjDq)
-7. [Facebook Video Broadcasting](https://lnkd.in/dvnXntNF)
-8. [LinkedIn Brooklin - Real-time Data Streaming](https://lnkd.in/dfbFcB2r)
-9. [Amazon S3 Performance Hacks](https://lnkd.in/dFgxQifh)
-10. [Amazon S3 Object Expiration](https://lnkd.in/ddb5RPgg)
-11. [Circuit Breaker Algorithm](https://lnkd.in/dtMAgFgN)
-12. [Caching Strategies at Twitter](https://lnkd.in/dUAque7i)
-13. [Improving Multi-CDN Delivery on Netflix](https://lnkd.in/dSBVbBMz)
-14. [Amazon Physalia - Millions of Tiny Databases](https://lnkd.in/dbaUXqcy)
-15. [Airbnb Microservice Architecture](https://lnkd.in/duzNCmqw)
-16. [Evolution of the Netflix API Architecture](https://lnkd.in/dKgZnWsD)
-17. [How Zapier Automates Billions of Tasks](https://lnkd.in/d74kktbV)
-18. [How LinkedIn Scaled to 930 Million Users](https://lnkd.in/dSCZG9bx)
-19. [How Pinterest Scaled to 11 Million Users with Only 6 Engineers](https://lnkd.in/drx93zhb)
-20. [How Instagram Scaled to 14 Million Users with Only 3 Engineers](https://lnkd.in/dJ54KJne)
-21. [Intro to Change Data Capture](https://lnkd.in/dsk4gv5d)
+<h1>Scalability Design URLS</h1>
 
-## DoorDash
-- [DoorDash Engineering](https://doordash.engineering/category/backend/)
+<p>1. Uber Time Series DB: https://lnkd.in/dzpbrmAw</p>
 
-## Distributed Computing Basics
-- [YouTube Playlist](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- [Cambridge Notes PDF](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
-- [Cambridge Slides PDF](https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-slides.pdf)
+<p>2. Airbnb Idempotency: https://lnkd.in/dmnevUzk</p>
 
-# Additional Resources
-- [System Design Concepts](https://lnkd.in/gmhYfk3u)
-- [High Scalability Website](https://lnkd.in/g-BGfKRu)
-- [Hussein Nasser YouTube](https://lnkd.in/gvJ3bjgQ)
-- [CodeKarle System Design Playlist](https://lnkd.in/g4yacWgy)
-- [Gaurav Sen's YouTube Channel](https://lnkd.in/gqnCX_bF)
-- [ByteByteGo YouTube Channel](https://lnkd.in/gtvAtCxR)
-- [Level Up System Design Survival Guide](https://lnkd.in/gDMiqHN3)
-- [Azure's Architecture Guide](https://lnkd.in/gyQvqHhc)
-- [Amazon CTO's Website](https://lnkd.in/gz5h_ffY)
-- [Best Architecture Notes](https://lnkd.in/get4KpZ5)
-- [System Design Primer on GitHub](https://lnkd.in/g89Mtjea)
-- [Serverless Land](https://serverlessland.com/learn)
+<p>3. Facebook Cluster Management: https://lnkd.in/dyB_rVRU</p>
 
-<h1>System Design / High-Level Design Interview</h1>
+<p>4. Google Autopilot - Autoscaling: https://lnkd.in/dsY3u5VM</p>
+
+<p>5. Netflix Workflow Orchestration: https://lnkd.in/dZcfsTxZ</p>
+
+<p>6. Opensource WorkflowManagement: https://lnkd.in/d3RqkjDq</p>
+
+<p>7. Facebook Video Broadcasting: 
+https://lnkd.in/dvnXntNF</p>
+
+<p>8. LinkedIn Brooklin- Real time data streaming: 
+https://lnkd.in/dfbFcB2r</p>
+
+<p>9. Amazon S3 Performance hacks: 
+https://lnkd.in/dFgxQifh</p>
+
+<p>10. Amazon S3 object expiration:
+ https://lnkd.in/ddb5RPgg</p>
+
+<p>11. Circuit Breaker Algorithm: 
+https://lnkd.in/dtMAgFgN</p>
+
+<p>12. Caching strategies at Twitter: https://lnkd.in/dUAque7i</p>
+
+<p>13. Improving Multi-CDN Delivery on Netflix: https://lnkd.in/dSBVbBMz</p>
+
+<p>14. Amazon Physalia - Millions of tiny databases: https://lnkd.in/dbaUXqcy</p>
+
+<p>15. Airbnb Microservice Architecture - https://lnkd.in/duzNCmqw</p>
+
+<p>16. Evolution of the Netflix API Architecture - https://lnkd.in/dKgZnWsD</p>
+
+<p>17. How Zapier Automates Billions of Tasks - https://lnkd.in/d74kktbV</p>
+
+<p>18. How LinkedIn Scaled to 930 Million Users - https://lnkd.in/dSCZG9bx</p>
+
+<p>19. How Pinterest scaled to 11 million users with only 6 engineers - https://lnkd.in/drx93zhb</p>
+
+<p>20. How Instagram scaled to 14 million users with only 3 engineers - https://lnkd.in/dJ54KJne</p>
+
+<p>21. Intro to Change Data Capture: https://lnkd.in/dsk4gv5d</p>
+
+
+<h1>Doordash</h1>
+<p>https://doordash.engineering/category/backend/</p>
+
+<h1>Distributed Compting Basics</h1>
+<p>https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB</p>
+<p>https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf</p>
+<p>https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-slides.pdf</p>
+
+
+<h1>75 Engineering blogs worth reading to improve your system design:</h1>
+
+<p>https://developers.redhat.com/</p>
+<p>High Scalability https://lnkd.in/eQ4eDw4E</p>
+<p>Engineering at Meta https://lnkd.in/e8tiSkEv</p>
+<p>AWS Architecture Blog https://lnkd.in/eEchKJif</p>
+<p>All Things Distributed https://lnkd.in/emXaQDaS</p>
+<p>The Nextflix Tech Blog https://lnkd.in/efPuR39b</p>
+<p>LinkedIn Engineering Blog https://lnkd.in/ehaePQth</p>
+<p>Uber Engineering Blog https://eng.uber.com/</p>
+<p>Engineering at Quora https://lnkd.in/em-WkhJd</p>
+<p>Pinterest Engineering https://lnkd.in/esBTntjq</p>
+<p>Lyft Engineering Blog https://eng.lyft.com/</p>
+<p>Twitter Engineering Blog https://lnkd.in/evMFNhEs</p>
+<p>Dropbox Engineering Blog https://dropbox.tech/</p>
+<p>Spotify Engineering https://lnkd.in/eJerVRQM</p>
+<p>Github Engineering https://lnkd.in/eCADWt8x</p>
+<p>Instagram Engineering https://lnkd.in/e7Gag8m5</p>
+<p>Canva Engineering Blog https://canvatechblog.com/</p>
+<p>Etsy Engineering https://lnkd.in/eddzzKRt</p>
+<p>Booking.com Tech Blog https://blog.booking.com/</p>
+<p>Expedia Technology https://lnkd.in/ehjuBE5J</p>
+<p>The Airbnb Tech Blog https://lnkd.in/emGrJbGM</p>
+<p>Stripe Engineering Blog https://lnkd.in/em6Svgyx</p>
+<p>Ebay Tech Blog https://tech.ebayinc.com/</p>
+<p>Flickr's Tech Blog https://code.flickr.net/</p>
+<p>Hubspot Product and Engineering Blog https://lnkd.in/eRGZkBd4</p>
+<p>Zynga Engineering https://lnkd.in/eex5Ddry</p>
+<p>Yelp Engineering Blog https://lnkd.in/epgBW_4J</p>
+<p>Heroku Engineering Blog https://lnkd.in/evgctQjh</p>
+<p>Discord Engineering and Design https://lnkd.in/evY4gpUA</p>
+<p>Zomato https://lnkd.in/e9gf3APD</p>
+<p>Hotstar https://blog.hotstar.com/</p>
+<p>Swiggy https://bytes.swiggy.com/</p>
+<p>Acast Tech https://lnkd.in/esuCEYZb</p>
+<p>ASOS Tech Blog https://lnkd.in/esXfdv3G</p>
+<p>Shopify Engineering https://lnkd.in/evvnqQTj</p>
+<p>Microsoft Tech Blogs https://lnkd.in/etw_7_bN</p>
+<p>Engineering at Microsoft https://lnkd.in/eEKz4ECi</p>
+<p>MongoDB Engineering Blog https://lnkd.in/e9iaqcmZ</p>
+<p>Slack Engineering https://slack.engineering/</p>
+<p>DoorDash Engineering https://lnkd.in/ep5raBZv</p>
+<p>Akamai https://lnkd.in/ey_dtA7C</p>
+<p>Expedia Technology https://lnkd.in/ehjuBE5J</p>
+<p>Reddit Engineering https://lnkd.in/e4E_XzaX</p>
+<p>Snap Engineering https://eng.snap.com/blog</p>
+<p>CloudFlare https://lnkd.in/exEsYAx5</p>
+<p>Engineering at Depop https://lnkd.in/eGjRYcFd</p>
+<p>SourceDiving (Cookpad's Engineering Blog https://sourcediving.com/</p>
+<p>Auto Trader Engineering Blog https://lnkd.in/eGDKA_g3</p>
+<p>Indeed Engineering Blog https://lnkd.in/ecFS87Dt</p>
+<p>Gusto Engineering Blog https://lnkd.in/e7yVxDKs</p>
+<p>Engineering at Birdie https://lnkd.in/eUqJTpje</p>
+
+<p>Out of characters, so the other 25 are here: https://lnkd.in/ekhdFT3t
+
+
+<h1>System design resources</h1>
+
+<p>1. System Design Concepts : https://lnkd.in/gmhYfk3u</p>
+
+<p>2. HighScalibility Website: https://lnkd.in/g-BGfKRu</p>
+
+<p>3. Hussein Nasser Youtube: https://lnkd.in/gvJ3bjgQ</p>
+
+<p>4. CodeKarle System Design Playlist: https://lnkd.in/g4yacWgy</p>
+
+<p>5. Gaurav Sen's Youtube Channel : https://lnkd.in/gqnCX_bF</p>
+
+<p>6. ByteByteGo Youtube Channel: https://lnkd.in/gtvAtCxR</p>
+
+<p>7. Level Up System Design Survival Guide: https://lnkd.in/gDMiqHN3</p>
+
+<p>8. Azure's Architecture Guide: https://lnkd.in/gyQvqHhc</p>
+
+<p>9. Amazon CTO's website on all things distributed: https://lnkd.in/gz5h_ffY</p>
+
+<p>10. Best Architecture Notes: https://lnkd.in/get4KpZ5</p>
+
+<p>11. System Design Primer on Github: https://lnkd.in/g89Mtjea</p>
+
+<h1>Severless</h1>
+<p>https://serverlessland.com/learn</P>
+
+<h1>𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 / 𝐇𝐢𝐠𝐡-𝐋𝐞𝐯𝐞𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰</h1>
 <p>
-    👉 <a href="https://lnkd.in/dXywra2R">Grokking the System Design Interview</a> - It has step-by-step discussion and good case studies.
-</p>
-<p>
-    👉 <a href="https://lnkd.in/d6yRpRvy">Alex Xu's System Design Interview course</a> on ByteByteGo - The course covers all the content from his famous book (Vol 1 and Vol 2) System Design Interview.
-</p>
-<p>
-    👉 <a href="https://lnkd.in/d-5mSpfw">Clement Mihailescu #SystemsExpert</a> videos to know how real-life System Design Interviews go.
-</p>
+👉 Grokking the System Design Interview - It has step-by-step discussion and good case studies (https://lnkd.in/dXywra2R)</p>
+<p>👉 Alex Xu's System Design Interview course on ByteByteGo (https://lnkd.in/d6yRpRvy) - The course covers all the content from his famous book (Vol 1 and Vol 2) System Design Interview</p>
+<p>👉 Clement Mihailescu #SystemsExpert (https://lnkd.in/d-5mSpfw) videos to know how real-life System Design Interviews go</p>
 
-<p>✅ <strong>Object Oriented Design / Low-Level Design Interview</strong></p>
-<p>
-    👉 <a href="https://lnkd.in/deuAXR-U">Grokking the Object Oriented Design Interview</a> - A very detailed and step-by-step approach to various object-oriented design case studies.
-</p>
+<p>✅ 𝐎𝐛𝐣𝐞𝐜𝐭 𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 / 𝐋𝐨𝐰-𝐋𝐞𝐯𝐞𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰</p>
+<p>👉 Grokking the Object Oriented Design Interview (https://lnkd.in/deuAXR-U) - A very detailed and step-by-step approach to various object-oriented design case studies.</p>
 
-<p>✅ <strong>API Design Interview</strong></p>
-<p>
-    👉 <a href="https://lnkd.in/d_x39xkK">Best Practices</a>, <a href="https://lnkd.in/d5fhXZJ7">Implementation</a>, and <a href="https://lnkd.in/dr397Hy2">Guidelines</a> of API Design.
-</p>
-<p>
-    👉 Look for use cases like - <a href="https://lnkd.in/dsM7PpJt">Stripe</a> and <a href="https://lnkd.in/dxiMu8wr">Twitter</a> API Documentation.
-</p>
-<p>
-    👉 #SystemsExpert also has a few case studies on API design as well.
-</p>
+<p>✅ 𝐀𝐏𝐈 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰</p>
+<p>👉 Best Practices (https://lnkd.in/d_x39xkK), Implementation (https://lnkd.in/d5fhXZJ7), and Guidelines (https://lnkd.in/dr397Hy2) of API Design</p>
+<p>👉 Look for use cases like - Stripe (https://lnkd.in/dsM7PpJt) and Twitter (https://lnkd.in/dxiMu8wr) API Documentation</p>
+<p>👉 #SystemsExpert also has a few case studies on API design as well</p>
 
-<p>✅ <strong>Schema / Database Design Interview</strong></p>
+<p>✅ 𝐒𝐜𝐡𝐞𝐦𝐚 / 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰</p>
+<p>👉 Grokking the Object Oriented Design Interview (https://lnkd.in/deuAXR-U) - Take the case studies and try to apply Object to Relational Mapping strategy</p>
+
+
+<h1>A System Design Interview usually lasts for 45-60 minutes. The following template will guide you on how to manage time duration in a System Design Interview -</h1>
+
 <p>
-    👉 <a href="https://lnkd.in/deuAXR-U">Grokking the Object Oriented Design Interview</a> - Take the case studies and try to apply Object to Relational Mapping strategy.
-</p>
-
-<h1>A System Design Interview usually lasts for 45-60 minutes. The following template will guide you on how to manage time duration in a System Design Interview:</h1>
-
-<p>✅ <strong>Requirement Clarifications - (3-5 minutes)</strong></p>
+✅ 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭 𝐂𝐥𝐚𝐫𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 - (3-5 𝐦𝐢𝐧)</p>
 <p>Ask clarifying questions to understand the problem and expectations of the interviewer.</p>
-<ul>
-    <li><strong>a) Functional Requirements</strong>
-        <ul>
-            <li>Focused use cases to cover (MVP)</li>
-            <li>Use cases that will not be covered</li>
-            <li>Who/How will use the system</li>
-            <li>Total/Daily active users</li>
-        </ul>
-    </li>
-    <li><strong>b) Non Functional Requirements</strong>
-        <ul>
-            <li>Is the system Highly Available or Highly Consistent? CAP theorem?</li>
-            <li>Does the system require low latency?</li>
-            <li>Does the system need to be reliable?</li>
-        </ul>
-    </li>
-</ul>
+  <p>𝐚) 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬</p>
+   <p>👉 Focussed use cases to cover (MVP)</p>
+   <p>👉 Use cases that will not be covered</p>
+   <p>👉 Who/How will use the system</p>
+   <p>👉 Total/Daily active users</p>
+  <p>𝐛) 𝐍𝐨𝐧 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬</p>
+   <p>👉 Is the system Highly Available or Highly Consistent? CAP theorem?</p>
+   <p>👉 Does the system requires low latency?</p>
+   <p>👉 Does the system needs to be reliable?</p>
+  
+<p>✅ 𝐄𝐬𝐭𝐢𝐦𝐚𝐭𝐢𝐨𝐧𝐬 (3-5 𝐦𝐢𝐧)<p>
+  <p>👉 Latency/Throughput expectations</p>
+  <p>👉 QPS (Queries Per Second) Read/Write ratio</p>
+  <p>👉 Traffic estimates</p>
+  <p>👉 Storage estimates</p>
+  <p>👉 Memory estimates</p>
 
-<p>✅ <strong>Estimations (3-5 minutes)</strong></p>
-<ul>
-    <li>Latency/Throughput expectations</li>
-    <li>QPS (Queries Per Second) Read/Write ratio</li>
-    <li>Traffic estimates</li>
-    <li>Storage estimates</li>
-    <li>Memory estimates</li>
-</ul>
+<p>✅ 𝐀𝐏𝐈 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)</p>
+  <p>👉 Outline the different APIs for required scenarios</p>
+ 
+<p>✅ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐜𝐡𝐞𝐦𝐚 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)</p>
+    <p>👉 Identify the type of database (SQL or NoSQL)</p>
+    <p>👉 Design schema like tables/columns and relationships with other tables (SQL)</p>
 
-<p>✅ <strong>API Design (3-5 minutes)</strong></p>
-<p>👉 Outline the different APIs for required scenarios.</p>
+<p>✅ 𝐒𝐲𝐬𝐭𝐞𝐦'𝐬 𝐃𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 (20 - 25 𝐦𝐢𝐧)</p>
+<p>(a) Draw/Explain high-level components of the system involving below (if required) components -</p>
+   <p>👉 Client (Mobile, Browser)</p>
+   <p>👉 DNS</p>
+   <p>👉 CDN</p>
+   <p>👉 Load Balancers</p>
+   <p>👉 Web / Application Servers</p>
+   <p>👉 Microservices</p>
+   <p>👉 Blob/Object Storage</p>
+   <p>👉 Proxy/Reverse Proxy</p>
+   <p>👉 Database (SQL or NoSQL)</p>
+   <p>👉 Cache at various levels (Client side, CDN, Server side, Database side, Application level caching)</p>
+   <p>👉 Messaging Queues for asynchronous communication</p>
 
-<p>✅ <strong>Database Schema Design (3-5 minutes)</strong></p>
-<ul>
-    <li>Identify the type of database (SQL or NoSQL)</li>
-    <li>Design schema like tables/columns and relationships with other tables (SQL)</li>
-</ul>
+ (b) Identification of algorithm/data structures and ways to scale them
+ (c) Scaling individual components - Horizontal & Vertical Scaling
+ (d) Database Partitioning -
+   i) Methods
+     👉 Horizontal Partitioning
+     👉 Vertical Partitioning
+     👉 Directory-Based Partitioning
+   ii) Criteria    
+     👉 Range-Based Partitioning
+     👉 Hash-Based Partitioning (Consistent Hashing)
+     👉 Round Robin
+ (e) Replication & Redundancy -
+    👉 Redundancy - Primary & Secondary Server
+    👉 Replication - Data replication from active to mirrored database     
+ (f) Databases
+    👉 SQL - Sharding, Indexes, master-slave, master-master, Denormalization
+    👉 NoSQL - Key-Value, Document, Wide-Column, Graph 
+ (g) Communication Protocols and standards like - IP, TCP, UDP, HTTP/S, RPC, REST, Web Sockets
 
-<p>✅ <strong>System's Detailed Design (20 - 25 minutes)</strong></p>
-<p>(a) Draw/Explain high-level components of the system involving below (if required) components:</p>
-<ul>
-    <li>Client (Mobile, Browser)</li>
-    <li>DNS</li>
-    <li>CDN</li>
-    <li>Load Balancers</li>
-    <li>Web / Application Servers</li>
-    <li>Microservices</li>
-    <li>Blob/Object Storage</li>
-    <li>Proxy/Reverse Proxy</li>
-    <li>Database (SQL or NoSQL)</li>
-    <li>Cache at various levels (Client side, CDN, Server side, Database side, Application level caching)</li>
-    <li>Messaging Queues for asynchronous communication</li>
-</ul>
-<p>(b) Identification of algorithm/data structures and ways to scale them.</p>
-<p>(c) Scaling individual components - Horizontal & Vertical Scaling.</p>
-<p>(d) Database Partitioning -
-<ul>
-    <li><strong>Methods</strong>
-        <ul>
-            <li>Horizontal Partitioning</li>
-            <li>Vertical Partitioning</li>
-            <li>Directory-Based Partitioning</li>
-        </ul>
-    </li>
-    <li><strong>Criteria</strong>
-        <ul>
-            <li>Range-Based Partitioning</li>
-            <li>Hash-Based Partitioning (Consistent Hashing)</li>
-            <li>Round Robin</li>
-        </ul>
-    </li>
-</ul>
+✅ 𝐑𝐞𝐬𝐨𝐥𝐯𝐞 𝐛𝐨𝐭𝐭𝐥𝐞𝐧𝐞𝐜𝐤𝐬 𝐚𝐧𝐝 𝐟𝐨𝐥𝐥𝐨𝐰-𝐮𝐩 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 (2-3 𝐦𝐢𝐧𝐮𝐭𝐞𝐬)
 </p>
-<p>(e) Replication & Redundancy -
-<ul>
-    <li>Redundancy - Primary & Secondary Server</li>
-    <li>Replication - Data replication from active to mirrored database</li>
-</ul>
-</p>
-<p>(f) Databases
-<ul>
-    <li>SQL - Sharding, Indexes, master-slave, master-master, Denormalization</li>
-    <li>NoSQL - Key-Value, Document, Wide-Column, Graph</li>
-</ul>
-</p>
-<p>(g) Communication Protocols and standards like - IP, TCP, UDP, HTTP/S, RPC, REST, Web Sockets</p>
 
-<p>✅ <strong>Resolve bottlenecks and follow-up questions (2-3 minutes)</strong></p>
 
 <h1>System Design GIT Pages</h1>
-<ul>
-    <li><a href="https://lnkd.in/gqqBreDG">Link 1</a></li>
-    <li><a href="https://lnkd.in/gmzbeCZe">Link 2</a></li>
-    <li><a href="https://lnkd.in/gRvCYnga">Link 3</a></li>
-    <li><a href="https://lnkd.in/gXdGwnaW">Link 4</a></li>
-    <li><a href="https://lnkd.in/gv3vkRXV">Link 5</a></li>
-    <li><a href="https://lnkd.in/gKZv_ijT">Link 6</a></li>
-</ul>
 
-<p><a href="https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction/">Instagram Video Processing</a></p>
-<p><a href="https://newsletter.simpleaws.dev/">Simple AWS Newsletter</a></p>
+<p>- https://lnkd.in/gqqBreDG</P>
+
+<p>- https://lnkd.in/gmzbeCZe</P>
+
+<p>- https://lnkd.in/gRvCYnga</P>
+
+<p>- https://lnkd.in/gXdGwnaW</P>
+
+<p>- https://lnkd.in/gv3vkRXV</P>
+
+<p>- https://lnkd.in/gKZv_ijT</P>
+
+<p>https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction//<p>
+
+<p>https://newsletter.simpleaws.dev/<p1>
+
 
 <h1>Compilation credits: John Crickett</h1>
 <p>AWS Architecture: https://lnkd.in/eEchKJif</P>
