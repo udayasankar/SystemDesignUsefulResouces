@@ -275,26 +275,106 @@
 <p><a href="https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction/">Instagram Video Processing</a></p>
 <p><a href="https://newsletter.simpleaws.dev/">Simple AWS Newsletter</a></p>
 
-<h1>Compilation credits: John Crickett</h1>
-<ul>
-    <li>AWS Architecture: <a href="https://lnkd.in/eEchKJif">Link</a></li>
-    <li>All Things Distributed: <a href="https://lnkd.in/emXaQDaS">Link</a></li>
-    <li>Microsoft Tech: <a href="https://lnkd.in/etw_7_bN">Link</a></li>
-    <li>Engineering at Microsoft: <a href="https://lnkd.in/eEKz4ECi">Link</a></li>
-    <li>Meta: <a href="https://lnkd.in/e8tiSkEv">Link</a></li>
-    <li>Netflix Tech: <a href="https://lnkd.in/efPuR39b">Link</a></li>
-    <li>LinkedIn Engineering: <a href="https://lnkd.in/ehaePQth">Link</a></li>
-    <li>Uber Engineering: <a href="https://eng.uber.com/">Link</a></li>
-    <li>Engineering at Quora: <a href="https://lnkd.in/em-WkhJd">Link</a></li>
-    <li>Pinterest Engineering: <a href="https://lnkd.in/esBTntjq">Link</a></li>
-    <li>Lyft Engineering: <a href="https://eng.lyft.com/">Link</a></li>
-    <li>Twitter Engineering: <a href="https://lnkd.in/evMFNhEs">Link</a></li>
-    <li>Dropbox Engineering: <a href="https://dropbox.tech/">Link</a></li>
-    <li>Spotify Engineering: <a href="https://lnkd.in/eJerVRQM">Link</a></li>
-    <li>Github Engineering: <a href="https://lnkd.in/eCADWt8x">Link</a></li>
-    <li>Shopify Engineering: <a href="https://lnkd.in/e2nnxNhi">Link</a></li>
-    <li>Yelp Engineering: <a href="https://engineering.yelp.com/">Link</a></li>
-    <li>Snapchat Engineering: <a href="https://lnkd.in/eDmd2Y8t">Link</a></li>
-    <li>Shopify Engineering: <a href="https://lnkd.in/e2nnxNhi">Link</a></li>
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compilation Credits</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            max-width: 900px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
+    <h1>Compilation Credits: John Crickett</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Resource</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td><a href="https://lnkd.in/eEchKJif" target="_blank">AWS Architecture</a></td></tr>
+            <tr><td><a href="https://lnkd.in/emXaQDaS" target="_blank">All Things Distributed</a></td></tr>
+            <tr><td><a href="https://lnkd.in/etw_7_bN" target="_blank">Microsoft Tech</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eEKz4ECi" target="_blank">Engineering at Microsoft</a></td></tr>
+            <tr><td><a href="https://lnkd.in/e8tiSkEv" target="_blank">Meta</a></td></tr>
+            <tr><td><a href="https://lnkd.in/efPuR39b" target="_blank">Netflix Tech</a></td></tr>
+            <tr><td><a href="https://lnkd.in/ehaePQth" target="_blank">LinkedIn Engineering</a></td></tr>
+            <tr><td><a href="https://eng.uber.com/" target="_blank">Uber Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/em-WkhJd" target="_blank">Engineering at Quora</a></td></tr>
+            <tr><td><a href="https://lnkd.in/esBTntjq" target="_blank">Pinterest Engineering</a></td></tr>
+            <tr><td><a href="https://eng.lyft.com/" target="_blank">Lyft Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/evMFNhEs" target="_blank">Twitter Engineering</a></td></tr>
+            <tr><td><a href="https://dropbox.tech/" target="_blank">Dropbox Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eJerVRQM" target="_blank">Spotify Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eCADWt8x" target="_blank">Github Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/e7Gag8m5" target="_blank">Instagram Engineering</a></td></tr>
+            <tr><td><a href="https://canvatechblog.com/" target="_blank">Canva Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eddzzKRt" target="_blank">Etsy Engineering</a></td></tr>
+            <tr><td><a href="https://blog.booking.com/" target="_blank">Booking.com Tech</a></td></tr>
+            <tr><td><a href="https://lnkd.in/ehjuBE5J" target="_blank">Expedia Technology</a></td></tr>
+            <tr><td><a href="https://lnkd.in/emGrJbGM" target="_blank">The Airbnb Tech</a></td></tr>
+            <tr><td><a href="https://lnkd.in/em6Svgyx" target="_blank">Stripe Engineering</a></td></tr>
+            <tr><td><a href="https://tech.ebayinc.com/" target="_blank">Ebay Tech</a></td></tr>
+            <tr><td><a href="https://code.flickr.net/" target="_blank">Flickr's Tech</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eRGZkBd4" target="_blank">Hubspot Product and Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eex5Ddry" target="_blank">Zynga Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/epgBW_4J" target="_blank">Yelp Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/evgctQjh" target="_blank">Heroku Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/evY4gpUA" target="_blank">Discord Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/e9gf3APD" target="_blank">Zomato</a></td></tr>
+            <tr><td><a href="https://blog.hotstar.com/" target="_blank">Hotstar</a></td></tr>
+            <tr><td><a href="https://bytes.swiggy.com/" target="_blank">Swiggy</a></td></tr>
+            <tr><td><a href="https://lnkd.in/esuCEYZb" target="_blank">Acast Tech</a></td></tr>
+            <tr><td><a href="https://lnkd.in/esXfdv3G" target="_blank">ASOS Tech</a></td></tr>
+            <tr><td><a href="https://lnkd.in/evvnqQTj" target="_blank">Shopify Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/e9iaqcmZ" target="_blank">MongoDB Engineering</a></td></tr>
+            <tr><td><a href="https://slack.engineering/" target="_blank">Slack Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/ep5raBZv" target="_blank">DoorDash Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/ey_dtA7C" target="_blank">Akamai</a></td></tr>
+            <tr><td><a href="https://lnkd.in/e4E_XzaX" target="_blank">Reddit Engineering</a></td></tr>
+            <tr><td><a href="https://eng.snap.com/blog" target="_blank">Snap Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eGjRYcFd" target="_blank">Engineering at Depop</a></td></tr>
+            <tr><td><a href="https://sourcediving.com/" target="_blank">SourceDiving</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eGDKA_g3" target="_blank">Auto Trader Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/ecFS87Dt" target="_blank">Indeed Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/e7yVxDKs" target="_blank">Gusto Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eUqJTpje" target="_blank">Engineering at Birdie</a></td></tr>
+            <tr><td><a href="https://lnkd.in/esCKvedJ" target="_blank">Forethought Engineering</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eZHSnx-j" target="_blank">Ramp</a></td></tr>
+            <tr><td><a href="https://lnkd.in/ezsKUf_H" target="_blank">Capital One</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eWe6w6TT" target="_blank">Disney Streaming</a></td></tr>
+            <tr><td><a href="https://lnkd.in/enJS53DS" target="_blank">Dunelm</a></td></tr>
+            <tr><td><a href="https://lnkd.in/e73WNZNN" target="_blank">The Guardian</a></td></tr>
+            <tr><td><a href="https://lnkd.in/eBakqffd" target="_blank">GiffGaff</a></td></tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
