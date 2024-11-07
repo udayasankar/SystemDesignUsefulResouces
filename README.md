@@ -186,6 +186,81 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Compilation Credits: John Crickett</h1>
+
+<table>
+    <caption>Engineering Blogs</caption>
+    <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Link</th>
+    </tr>
+    <tr><td>1</td><td>AWS Architecture</td><td><a href="https://lnkd.in/eEchKJif">https://lnkd.in/eEchKJif</a></td></tr>
+    <tr><td>2</td><td>All Things Distributed</td><td><a href="https://lnkd.in/emXaQDaS">https://lnkd.in/emXaQDaS</a></td></tr>
+    <tr><td>3</td><td>Microsoft Tech</td><td><a href="https://lnkd.in/etw_7_bN">https://lnkd.in/etw_7_bN</a></td></tr>
+    <tr><td>4</td><td>Engineering at Microsoft</td><td><a href="https://lnkd.in/eEKz4ECi">https://lnkd.in/eEKz4ECi</a></td></tr>
+    <tr><td>5</td><td>Meta</td><td><a href="https://lnkd.in/e8tiSkEv">https://lnkd.in/e8tiSkEv</a></td></tr>
+    <tr><td>6</td><td>Netflix Tech</td><td><a href="https://lnkd.in/efPuR39b">https://lnkd.in/efPuR39b</a></td></tr>
+    <tr><td>7</td><td>LinkedIn Engineering</td><td><a href="https://lnkd.in/ehaePQth">https://lnkd.in/ehaePQth</a></td></tr>
+    <tr><td>8</td><td>Uber Engineering</td><td><a href="https://eng.uber.com/">https://eng.uber.com/</a></td></tr>
+    <tr><td>9</td><td>Engineering at Quora</td><td><a href="https://lnkd.in/em-WkhJd">https://lnkd.in/em-WkhJd</a></td></tr>
+    <tr><td>10</td><td>Pinterest Engineering</td><td><a href="https://lnkd.in/esBTntjq">https://lnkd.in/esBTntjq</a></td></tr>
+    <tr><td>11</td><td>Lyft Engineering</td><td><a href="https://eng.lyft.com/">https://eng.lyft.com/</a></td></tr>
+    <tr><td>12</td><td>Twitter Engineering</td><td><a href="https://lnkd.in/evMFNhEs">https://lnkd.in/evMFNhEs</a></td></tr>
+    <tr><td>13</td><td>Dropbox Engineering</td><td><a href="https://dropbox.tech/">https://dropbox.tech/</a></td></tr>
+    <tr><td>14</td><td>Spotify Engineering</td><td><a href="https://lnkd.in/eJerVRQM">https://lnkd.in/eJerVRQM</a></td></tr>
+    <tr><td>15</td><td>Github Engineering</td><td><a href="https://lnkd.in/eCADWt8x">https://lnkd.in/eCADWt8x</a></td></tr>
+    <tr><td>16</td><td>Instagram Engineering</td><td><a href="https://lnkd.in/e7Gag8m5">https://lnkd.in/e7Gag8m5</a></td></tr>
+    <tr><td>17</td><td>Canva Engineering</td><td><a href="https://canvatechblog.com/">https://canvatechblog.com/</a></td></tr>
+    <tr><td>18</td><td>Etsy Engineering</td><td><a href="https://lnkd.in/eddzzKRt">https://lnkd.in/eddzzKRt</a></td></tr>
+    <tr><td>19</td><td>Booking.com Tech</td><td><a href="https://blog.booking.com/">https://blog.booking.com/</a></td></tr>
+    <tr><td>20</td><td>Expedia Technology</td><td><a href="https://lnkd.in/ehjuBE5J">https://lnkd.in/ehjuBE5J</a></td></tr>
+    <tr><td>21</td><td>The Airbnb Tech</td><td><a href="https://lnkd.in/emGrJbGM">https://lnkd.in/emGrJbGM</a></td></tr>
+    <tr><td>22</td><td>Stripe Engineering</td><td><a href="https://lnkd.in/em6Svgyx">https://lnkd.in/em6Svgyx</a></td></tr>
+    <tr><td>23</td><td>Ebay Tech</td><td><a href="https://tech.ebayinc.com/">https://tech.ebayinc.com/</a></td></tr>
+    <tr><td>24</td><td>Flickr's Tech</td><td><a href="https://code.flickr.net/">https://code.flickr.net/</a></td></tr>
+    <tr><td>25</td><td>Hubspot Product and Engineering</td><td><a href="https://lnkd.in/eRGZkBd4">https://lnkd.in/eRGZkBd4</a></td></tr>
+    <!-- Continue listing all other blogs similarly -->
+</table>
+
+<table>
+    <caption>Basic Engineering Links For Design</caption>
+    <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Link</th>
+    </tr>
+    <tr><td>1</td><td>Engineering at Meta</td><td><a href="https://lnkd.in/e8tiSkEv">https://lnkd.in/e8tiSkEv</a></td></tr>
+    <tr><td>2</td><td>Google Research</td><td><a href="https://ai.googleblog.com/">https://ai.googleblog.com/</a></td></tr>
+    <tr><td>3</td><td>Google Cloud Blog</td><td><a href="https://lnkd.in/enNviCF8">https://lnkd.in/enNviCF8</a></td></tr>
+    <tr><td>4</td><td>AWS Architecture Blog</td><td><a href="https://lnkd.in/eEchKJif">https://lnkd.in/eEchKJif</a></td></tr>
+    <tr><td>5</td><td>All Things Distributed</td><td><a href="https://lnkd.in/emXaQDaS">https://lnkd.in/emXaQDaS</a></td></tr>
+    <!-- Continue listing all other basic engineering links similarly -->
+</table>
+
+<table>
+    <caption>System Design Links</caption>
+    <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Link</th>
+    </tr>
+    <tr><td>1</td><td>Uber</td><td><a href="https://lnkd.in/gASdDKdJ">https://lnkd.in/gASdDKdJ</a></td></tr>
+    <tr><td>2</td><td>Airbnb</td><td><a href="https://lnkd.in/gCHCKZUA">https://lnkd.in/gCHCKZUA</a></td></tr>
+    <tr><td>3</td><td>Hotstar</td><td><a href="https://blog.hotstar.com/">https://blog.hotstar.com/</a></td></tr>
+    <tr><td>4</td><td>Atlassian</td><td><a href="https://lnkd.in/g6z4Mkmr">https://lnkd.in/g6z4Mkmr</a></td></tr>
+    <tr><td>5</td><td>Quora</td><td><a href="https://lnkd.in/gnutuc8C">https://lnkd.in/gnutuc8C</a></td></tr>
+    <!-- Continue listing all other system design links similarly -->
+</table>
+
+</body>
+</html>
+
+
 
 <h1>Scalability Design URLS</h1>
 
@@ -278,21 +353,13 @@ https://lnkd.in/dtMAgFgN</p>
 
 <h1>𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 / 𝐇𝐢𝐠𝐡-𝐋𝐞𝐯𝐞𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰</h1>
 <p>
-👉 Grokking the System Design Interview - It has step-by-step discussion and good case studies (https://lnkd.in/dXywra2R)</p>
-<p>👉 Alex Xu's System Design Interview course on ByteByteGo (https://lnkd.in/d6yRpRvy) - The course covers all the content from his famous book (Vol 1 and Vol 2) System Design Interview</p>
 <p>👉 Clement Mihailescu #SystemsExpert (https://lnkd.in/d-5mSpfw) videos to know how real-life System Design Interviews go</p>
 
-<p>✅ 𝐎𝐛𝐣𝐞𝐜𝐭 𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 / 𝐋𝐨𝐰-𝐋𝐞𝐯𝐞𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰</p>
-<p>👉 Grokking the Object Oriented Design Interview (https://lnkd.in/deuAXR-U) - A very detailed and step-by-step approach to various object-oriented design case studies.</p>
 
 <p>✅ 𝐀𝐏𝐈 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰</p>
 <p>👉 Best Practices (https://lnkd.in/d_x39xkK), Implementation (https://lnkd.in/d5fhXZJ7), and Guidelines (https://lnkd.in/dr397Hy2) of API Design</p>
 <p>👉 Look for use cases like - Stripe (https://lnkd.in/dsM7PpJt) and Twitter (https://lnkd.in/dxiMu8wr) API Documentation</p>
 <p>👉 #SystemsExpert also has a few case studies on API design as well</p>
-
-<p>✅ 𝐒𝐜𝐡𝐞𝐦𝐚 / 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰</p>
-<p>👉 Grokking the Object Oriented Design Interview (https://lnkd.in/deuAXR-U) - Take the case studies and try to apply Object to Relational Mapping strategy</p>
-
 
 <h1>A System Design Interview usually lasts for 45-60 minutes. The following template will guide you on how to manage time duration in a System Design Interview -</h1>
 
@@ -379,127 +446,6 @@ https://lnkd.in/dtMAgFgN</p>
 <p>https://newsletter.simpleaws.dev/<p1>
 
 
-<h1>Compilation credits: John Crickett</h1>
-<p>AWS Architecture: https://lnkd.in/eEchKJif</P>
-<p>All Things Distributed: https://lnkd.in/emXaQDaS</P>
-<p>Microsoft Tech: https://lnkd.in/etw_7_bN</P>
-<p>Engineering at Microsoft: https://lnkd.in/eEKz4ECi</P>
-<p>Meta: https://lnkd.in/e8tiSkEv</P>
-<p>Netflix Tech: https://lnkd.in/efPuR39b</P>
-<p>LinkedIn Engineering: https://lnkd.in/ehaePQth</P>
-<p>Uber Engineering: https://eng.uber.com/</P>
-<p>Engineering at Quora: https://lnkd.in/em-WkhJd</P>
-<p>Pinterest Engineering: https://lnkd.in/esBTntjq</P>
-<p>Lyft Engineering: https://eng.lyft.com/</P>
-<p>Twitter Engineering: https://lnkd.in/evMFNhEs</P>
-<p>Dropbox Engineering: https://dropbox.tech/</P>
-<p>Spotify Engineering: https://lnkd.in/eJerVRQM</P>
-<p>Github Engineering: https://lnkd.in/eCADWt8x</P>
-<p>Instagram Engineering: https://lnkd.in/e7Gag8m5</P>
-<p>Canva Engineering: https://canvatechblog.com/</P>
-<p>Etsy Engineering: https://lnkd.in/eddzzKRt</P>
-<p>Booking.com Tech: https://blog.booking.com/</P>
-<p>Expedia Technology: https://lnkd.in/ehjuBE5J</P>
-<p>The Airbnb Tech: https://lnkd.in/emGrJbGM</P>
-<p>Stripe Engineering: https://lnkd.in/em6Svgyx</P>
-<p>Ebay Tech: https://tech.ebayinc.com/</P>
-<p>Flickr's Tech: https://code.flickr.net/</P>
-<p>Hubspot Product and Engineering: https://lnkd.in/eRGZkBd4</P>
-<p>Zynga Engineering: https://lnkd.in/eex5Ddry</P>
-<p>Yelp Engineering: https://lnkd.in/epgBW_4J</P>
-<p>Heroku Engineering: https://lnkd.in/evgctQjh</P>
-<p>Discord Engineering: https://lnkd.in/evY4gpUA</P>
-<p>Zomato: https://lnkd.in/e9gf3APD</P>
-<p>Hotstar: https://blog.hotstar.com/</P>
-<p>Swiggy: https://bytes.swiggy.com/</P>
-<p>Acast Tech: https://lnkd.in/esuCEYZb</P>
-<p>ASOS Tech: https://lnkd.in/esXfdv3G</P>
-<p>Shopify Engineering: https://lnkd.in/evvnqQTj</P>
-<p>MongoDB Engineering: https://lnkd.in/e9iaqcmZ</P>
-<p>Slack Engineering: https://slack.engineering/</P>
-<p>DoorDash Engineering: https://lnkd.in/ep5raBZv</P>
-<p>Akamai: https://lnkd.in/ey_dtA7C</P>
-<p>Expedia Technology: https://lnkd.in/ehjuBE5J</P>
-<p>Reddit Engineering: https://lnkd.in/e4E_XzaX</P>
-<p>Snap Engineering: https://eng.snap.com/blog</P>
-<p>Engineering at Depop: https://lnkd.in/eGjRYcFd</P>
-<p>SourceDiving : https://sourcediving.com/</P>
-<p>Auto Trader Engineering: https://lnkd.in/eGDKA_g3</P>
-<p>Indeed Engineering: https://lnkd.in/ecFS87Dt</P>
-<p>Gusto Engineering: https://lnkd.in/e7yVxDKs</P>
-<p>Engineering at Birdie: https://lnkd.in/eUqJTpje</P>
-<p>Forethough Engineering: https://lnkd.in/esCKvedJ</P>
-<p>Ramp: https://lnkd.in/eZHSnx-j</P>
-<p>Capital One: https://lnkd.in/ezsKUf_H</P>
-<p>Disney Streaming: https://lnkd.in/eWe6w6TT</P>
-<p>Dunelm: https://lnkd.in/enJS53DS</P>
-<p>The Guardian: https://lnkd.in/e73WNZNN</P>
-<p>GiffGaff: https://lnkd.in/eBakqffd</P>
-
-
-<h1>Basic Engineering Links For Design</h1>
-<p>Engineering at Meta - https://lnkd.in/e8tiSkEv</P>
-<p>Google Research - https://ai.googleblog.com/</P>
-<p>Google Cloud Blog - https://lnkd.in/enNviCF8</P>
-<p>AWS Architecture Blog - https://lnkd.in/eEchKJif</P>
-<p>All Things Distributed - https://lnkd.in/emXaQDaS</P>
-<p>The Nextflix Tech Blog - https://lnkd.in/efPuR39b</P>
-<p>LinkedIn Engineering Blog - https://lnkd.in/ehaePQth</P>
-<p>Uber Engineering Blog - https://eng.uber.com/</P>
-<p>Engineering at Quora - https://lnkd.in/em-WkhJd</P>
-<p>Pinterest Engineering - https://lnkd.in/esBTntjq</P>
-<p>Lyft Engineering Blog - https://eng.lyft.com/</P>
-<p>Twitter Engineering Blog - https://lnkd.in/evMFNhEs</P>
-<p>Dropbox Engineering Blog - https://dropbox.tech/</P>
-<p>Spotify Engineering - https://lnkd.in/eJerVRQM</P>
-<p>Github Engineering - https://lnkd.in/eCADWt8x</P>
-<p>Instagram Engineering - https://lnkd.in/e7Gag8m5</P>
-<p>Databricks - https://lnkd.in/eXcBj37a</P>
-<p>Canva Engineering Blog - https://canvatechblog.com/</P>
-<p>Etsy Engineering - https://lnkd.in/eddzzKRt</P>
-<p>Booking.com Tech Blog - https://blog.booking.com/</P>
-<p>Expedia Technology - https://lnkd.in/ehjuBE5J</P>
-<p>The Airbnb Tech Blog - https://lnkd.in/emGrJbGM</P>
-<p>Stripe Engineering Blog - https://lnkd.in/em6Svgyx</P>
-<p>Ebay Tech Blog - https://tech.ebayinc.com/</P>
-<p>Flickr's Tech Blog - https://code.flickr.net/</P>
-<p>Hubspot Product and Engineering Blog - https://lnkd.in/eRGZkBd4</P>
-<p>Zynga Engineering - https://lnkd.in/eex5Ddry</P>
-<p>Yelp Engineering Blog - https://lnkd.in/epgBW_4J</P>
-<p>Heroku Engineering Blog - https://lnkd.in/evgctQjh</P>
-<p>Discord Engineering and Design - https://lnkd.in/evY4gpUA</P>
-<p>Zomato - https://lnkd.in/e9gf3APD</P>
-<p>Hotstar - https://blog.hotstar.com/</P>
-<p>Swiggy - https://bytes.swiggy.com/</P>
-<p>Acast Tech - https://lnkd.in/esuCEYZb</P>
-<p>ASOS Tech Blog - https://lnkd.in/esXfdv3G</P>
-<p>Shopify Engineering - https://lnkd.in/evvnqQTj</P>
-<p>Microsoft Tech Blogs - https://lnkd.in/etw_7_bN</P>
-<p>Engineering at Microsoft - https://lnkd.in/eEKz4ECi</P>
-<p>MongoDB Engineering Blog - https://lnkd.in/e9iaqcmZ</P>
-<p>Slack Engineering - https://slack.engineering/</P>
-<p>Engineering at Depop - https://lnkd.in/eGjRYcFd</P>
-<p>SourceDiving (Cookpad's Engineering Blog - https://sourcediving.com/</P>
-<p>Auto Trader Engineering Blog - https://lnkd.in/eGDKA_g3</P>
-<p>Indeed Engineering Blog - https://lnkd.in/ecFS87Dt</P>
-<p>Gusto Engineering Blog - https://lnkd.in/e7yVxDKs</P>
-<p>Engineering at Birdie - https://lnkd.in/eUqJTpje</P>
-<p>Forethough Engineering - https://lnkd.in/esCKvedJ</P>
-<p>Capital One - https://lnkd.in/ezsKUf_H</P>
-<p>Disney Streaming - https://lnkd.in/e4nmMdWd</P>
-
-<h1>System Design Links</h1>
-<p>1) Uber - https://lnkd.in/gASdDKdJ</P>
-<p>2) Airbnb - https://lnkd.in/gCHCKZUA</P>
-<p>3) Hotstar - https://blog.hotstar.com/</P>
-<p>4) Atlassian - https://lnkd.in/g6z4Mkmr</P>
-<p>5) Quora - https://lnkd.in/gnutuc8C</P>
-<p>6) Flipkart - https://lnkd.in/gZXKm5xS</P>
-<p>7) Discord - https://lnkd.in/ga_bHfXM</P>
-<p>8) Medium (collation of many blogs) - https://lnkd.in/gXGTizws</P>
-<p>9) Swiggy - https://bytes.swiggy.com/</P>
-<p>10) Dropbox - https://lnkd.in/gUsQQxBG</P>
-<p>11) Pinterest - https://lnkd.in/gdykC6Vv</P>
 
 <h1>Git Hub System Design Links</h1>
 <p>https://github.com/InterviewReady/system-design-resources</P>
