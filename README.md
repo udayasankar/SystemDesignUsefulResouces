@@ -260,60 +260,53 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<table>
+    <caption>Scalability Design URLs</caption>
+    <tr>
+        <th>No</th>
+        <th>Title</th>
+        <th>Link</th>
+    </tr>
+    <tr><td>1</td><td>Uber Time Series DB</td><td><a href="https://lnkd.in/dzpbrmAw">https://lnkd.in/dzpbrmAw</a></td></tr>
+    <tr><td>2</td><td>Airbnb Idempotency</td><td><a href="https://lnkd.in/dmnevUzk">https://lnkd.in/dmnevUzk</a></td></tr>
+    <tr><td>3</td><td>Facebook Cluster Management</td><td><a href="https://lnkd.in/dyB_rVRU">https://lnkd.in/dyB_rVRU</a></td></tr>
+    <tr><td>4</td><td>Google Autopilot - Autoscaling</td><td><a href="https://lnkd.in/dsY3u5VM">https://lnkd.in/dsY3u5VM</a></td></tr>
+    <tr><td>5</td><td>Netflix Workflow Orchestration</td><td><a href="https://lnkd.in/dZcfsTxZ">https://lnkd.in/dZcfsTxZ</a></td></tr>
+    <tr><td>6</td><td>Opensource Workflow Management</td><td><a href="https://lnkd.in/d3RqkjDq">https://lnkd.in/d3RqkjDq</a></td></tr>
+    <tr><td>7</td><td>Facebook Video Broadcasting</td><td><a href="https://lnkd.in/dvnXntNF">https://lnkd.in/dvnXntNF</a></td></tr>
+    <tr><td>8</td><td>LinkedIn Brooklin - Real time data streaming</td><td><a href="https://lnkd.in/dfbFcB2r">https://lnkd.in/dfbFcB2r</a></td></tr>
+    <tr><td>9</td><td>Amazon S3 Performance hacks</td><td><a href="https://lnkd.in/dFgxQifh">https://lnkd.in/dFgxQifh</a></td></tr>
+    <tr><td>10</td><td>Amazon S3 object expiration</td><td><a href="https://lnkd.in/ddb5RPgg">https://lnkd.in/ddb5RPgg</a></td></tr>
+    <tr><td>11</td><td>Circuit Breaker Algorithm</td><td><a href="https://lnkd.in/dtMAgFgN">https://lnkd.in/dtMAgFgN</a></td></tr>
+    <tr><td>12</td><td>Caching strategies at Twitter</td><td><a href="https://lnkd.in/dUAque7i">https://lnkd.in/dUAque7i</a></td></tr>
+    <tr><td>13</td><td>Improving Multi-CDN Delivery on Netflix</td><td><a href="https://lnkd.in/dSBVbBMz">https://lnkd.in/dSBVbBMz</a></td></tr>
+    <tr><td>14</td><td>Amazon Physalia - Millions of tiny databases</td><td><a href="https://lnkd.in/dbaUXqcy">https://lnkd.in/dbaUXqcy</a></td></tr>
+    <tr><td>15</td><td>Airbnb Microservice Architecture</td><td><a href="https://lnkd.in/duzNCmqw">https://lnkd.in/duzNCmqw</a></td></tr>
+    <tr><td>16</td><td>Evolution of the Netflix API Architecture</td><td><a href="https://lnkd.in/dKgZnWsD">https://lnkd.in/dKgZnWsD</a></td></tr>
+    <tr><td>17</td><td>How Zapier Automates Billions of Tasks</td><td><a href="https://lnkd.in/d74kktbV">https://lnkd.in/d74kktbV</a></td></tr>
+    <tr><td>18</td><td>How LinkedIn Scaled to 930 Million Users</td><td><a href="https://lnkd.in/dSCZG9bx">https://lnkd.in/dSCZG9bx</a></td></tr>
+    <tr><td>19</td><td>How Pinterest scaled to 11 million users with only 6 engineers</td><td><a href="https://lnkd.in/drx93zhb">https://lnkd.in/drx93zhb</a></td></tr>
+    <tr><td>20</td><td>How Instagram scaled to 14 million users with only 3 engineers</td><td><a href="https://lnkd.in/dJ54KJne">https://lnkd.in/dJ54KJne</a></td></tr>
+    <tr><td>21</td><td>Intro to Change Data Capture</td><td><a href="https://lnkd.in/dsk4gv5d">https://lnkd.in/dsk4gv5d</a></td></tr>
+</table>
+
+<table>
+    <caption>Doordash</caption>
+    <tr>
+        <th>Link</th>
+    </tr>
+    <tr><td><a href="https://doordash.engineering/category/backend/">https://doordash.engineering/category/backend/</a></td></tr>
+</table>
+
+</body>
+</html>
 
 
-<h1>Scalability Design URLS</h1>
 
-<p>1. Uber Time Series DB: https://lnkd.in/dzpbrmAw</p>
-
-<p>2. Airbnb Idempotency: https://lnkd.in/dmnevUzk</p>
-
-<p>3. Facebook Cluster Management: https://lnkd.in/dyB_rVRU</p>
-
-<p>4. Google Autopilot - Autoscaling: https://lnkd.in/dsY3u5VM</p>
-
-<p>5. Netflix Workflow Orchestration: https://lnkd.in/dZcfsTxZ</p>
-
-<p>6. Opensource WorkflowManagement: https://lnkd.in/d3RqkjDq</p>
-
-<p>7. Facebook Video Broadcasting: 
-https://lnkd.in/dvnXntNF</p>
-
-<p>8. LinkedIn Brooklin- Real time data streaming: 
-https://lnkd.in/dfbFcB2r</p>
-
-<p>9. Amazon S3 Performance hacks: 
-https://lnkd.in/dFgxQifh</p>
-
-<p>10. Amazon S3 object expiration:
- https://lnkd.in/ddb5RPgg</p>
-
-<p>11. Circuit Breaker Algorithm: 
-https://lnkd.in/dtMAgFgN</p>
-
-<p>12. Caching strategies at Twitter: https://lnkd.in/dUAque7i</p>
-
-<p>13. Improving Multi-CDN Delivery on Netflix: https://lnkd.in/dSBVbBMz</p>
-
-<p>14. Amazon Physalia - Millions of tiny databases: https://lnkd.in/dbaUXqcy</p>
-
-<p>15. Airbnb Microservice Architecture - https://lnkd.in/duzNCmqw</p>
-
-<p>16. Evolution of the Netflix API Architecture - https://lnkd.in/dKgZnWsD</p>
-
-<p>17. How Zapier Automates Billions of Tasks - https://lnkd.in/d74kktbV</p>
-
-<p>18. How LinkedIn Scaled to 930 Million Users - https://lnkd.in/dSCZG9bx</p>
-
-<p>19. How Pinterest scaled to 11 million users with only 6 engineers - https://lnkd.in/drx93zhb</p>
-
-<p>20. How Instagram scaled to 14 million users with only 3 engineers - https://lnkd.in/dJ54KJne</p>
-
-<p>21. Intro to Change Data Capture: https://lnkd.in/dsk4gv5d</p>
-
-
-<h1>Doordash</h1>
-<p>https://doordash.engineering/category/backend/</p>
 
 <h1>Distributed Compting Basics</h1>
 <p>https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB</p>
