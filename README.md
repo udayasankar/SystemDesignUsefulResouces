@@ -1,5 +1,136 @@
-# SystemDesignUsefulResouces
+!DOCTYPE html>
+
 <!DOCTYPE html>
+<html>
+<body>
+
+<h2>A System Design Interview usually lasts for 45-60 minutes. The following template will guide you on how to manage time duration in a System Design Interview:</h2>
+
+<table border="1">
+    <tr>
+        <th>Step</th>
+        <th>Duration</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td>Requirement Clarifications</td>
+        <td>3-5 min</td>
+        <td>
+            <b>Ask clarifying questions to understand the problem and expectations of the interviewer:</b>
+            <ul>
+                <li><b>Functional Requirements</b>
+                    <ul>
+                        <li>Focussed use cases to cover (MVP)</li>
+                        <li>Use cases that will not be covered</li>
+                        <li>Who/How will use the system</li>
+                        <li>Total/Daily active users</li>
+                    </ul>
+                </li>
+                <li><b>Non Functional Requirements</b>
+                    <ul>
+                        <li>Is the system Highly Available or Highly Consistent? CAP theorem?</li>
+                        <li>Does the system require low latency?</li>
+                        <li>Does the system need to be reliable?</li>
+                    </ul>
+                </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Estimations</td>
+        <td>3-5 min</td>
+        <td>
+            <ul>
+                <li>Latency/Throughput expectations</li>
+                <li>QPS (Queries Per Second) Read/Write ratio</li>
+                <li>Traffic estimates</li>
+                <li>Storage estimates</li>
+                <li>Memory estimates</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>API Design</td>
+        <td>3-5 min</td>
+        <td>Outline the different APIs for required scenarios</td>
+    </tr>
+    <tr>
+        <td>Database Schema Design</td>
+        <td>3-5 min</td>
+        <td>
+            <ul>
+                <li>Identify the type of database (SQL or NoSQL)</li>
+                <li>Design schema like tables/columns and relationships with other tables (SQL)</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>System's Detailed Design</td>
+        <td>20-25 min</td>
+        <td>
+            <p><b>Draw/Explain high-level components of the system, covering components if needed:</b></p>
+            <ul>
+                <li>Client (Mobile, Browser)</li>
+                <li>DNS</li>
+                <li>CDN</li>
+                <li>Load Balancers</li>
+                <li>Web / Application Servers</li>
+                <li>Microservices</li>
+                <li>Blob/Object Storage</li>
+                <li>Proxy/Reverse Proxy</li>
+                <li>Database (SQL or NoSQL)</li>
+                <li>Cache (Client side, CDN, Server side, Database side, Application level caching)</li>
+                <li>Messaging Queues for asynchronous communication</li>
+            </ul>
+            <p><b>Additional Considerations:</b></p>
+            <ul>
+                <li>Algorithm/Data structure selection and scalability</li>
+                <li>Scaling individual components - Horizontal & Vertical Scaling</li>
+                <li>Database Partitioning
+                    <ul>
+                        <li>Methods
+                            <ul>
+                                <li>Horizontal Partitioning</li>
+                                <li>Vertical Partitioning</li>
+                                <li>Directory-Based Partitioning</li>
+                            </ul>
+                        </li>
+                        <li>Criteria
+                            <ul>
+                                <li>Range-Based Partitioning</li>
+                                <li>Hash-Based Partitioning (Consistent Hashing)</li>
+                                <li>Round Robin</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Replication & Redundancy
+                    <ul>
+                        <li>Primary & Secondary Server Redundancy</li>
+                        <li>Data replication from active to mirrored database</li>
+                    </ul>
+                </li>
+                <li>Database Types and Strategies
+                    <ul>
+                        <li>SQL - Sharding, Indexes, Master-Slave, Master-Master, Denormalization</li>
+                        <li>NoSQL - Key-Value, Document, Wide-Column, Graph</li>
+                    </ul>
+                </li>
+                <li>Communication Protocols (IP, TCP, UDP, HTTP/S, RPC, REST, Web Sockets)</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Resolve Bottlenecks and Follow-up Questions</td>
+        <td>2-3 min</td>
+        <td></td>
+    </tr>
+</table>
+
+</body>
+</html>
+
+
 <html>
 <body style="background-color:powderblue; font-family: Arial, sans-serif;">
 
@@ -354,70 +485,7 @@
 <p>👉 Look for use cases like - Stripe (https://lnkd.in/dsM7PpJt) and Twitter (https://lnkd.in/dxiMu8wr) API Documentation</p>
 <p>👉 #SystemsExpert also has a few case studies on API design as well</p>
 
-<h1>A System Design Interview usually lasts for 45-60 minutes. The following template will guide you on how to manage time duration in a System Design Interview -</h1>
 
-<p>
-✅ 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭 𝐂𝐥𝐚𝐫𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 - (3-5 𝐦𝐢𝐧)</p>
-<p>Ask clarifying questions to understand the problem and expectations of the interviewer.</p>
-  <p>𝐚) 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬</p>
-   <p>👉 Focussed use cases to cover (MVP)</p>
-   <p>👉 Use cases that will not be covered</p>
-   <p>👉 Who/How will use the system</p>
-   <p>👉 Total/Daily active users</p>
-  <p>𝐛) 𝐍𝐨𝐧 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐚𝐥 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬</p>
-   <p>👉 Is the system Highly Available or Highly Consistent? CAP theorem?</p>
-   <p>👉 Does the system requires low latency?</p>
-   <p>👉 Does the system needs to be reliable?</p>
-  
-<p>✅ 𝐄𝐬𝐭𝐢𝐦𝐚𝐭𝐢𝐨𝐧𝐬 (3-5 𝐦𝐢𝐧)<p>
-  <p>👉 Latency/Throughput expectations</p>
-  <p>👉 QPS (Queries Per Second) Read/Write ratio</p>
-  <p>👉 Traffic estimates</p>
-  <p>👉 Storage estimates</p>
-  <p>👉 Memory estimates</p>
-
-<p>✅ 𝐀𝐏𝐈 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)</p>
-  <p>👉 Outline the different APIs for required scenarios</p>
- 
-<p>✅ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐜𝐡𝐞𝐦𝐚 𝐃𝐞𝐬𝐢𝐠𝐧 (3-5 𝐦𝐢𝐧)</p>
-    <p>👉 Identify the type of database (SQL or NoSQL)</p>
-    <p>👉 Design schema like tables/columns and relationships with other tables (SQL)</p>
-
-<p>✅ 𝐒𝐲𝐬𝐭𝐞𝐦'𝐬 𝐃𝐞𝐭𝐚𝐢𝐥𝐞𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 (20 - 25 𝐦𝐢𝐧)</p>
-<p>(a) Draw/Explain high-level components of the system involving below (if required) components -</p>
-   <p>👉 Client (Mobile, Browser)</p>
-   <p>👉 DNS</p>
-   <p>👉 CDN</p>
-   <p>👉 Load Balancers</p>
-   <p>👉 Web / Application Servers</p>
-   <p>👉 Microservices</p>
-   <p>👉 Blob/Object Storage</p>
-   <p>👉 Proxy/Reverse Proxy</p>
-   <p>👉 Database (SQL or NoSQL)</p>
-   <p>👉 Cache at various levels (Client side, CDN, Server side, Database side, Application level caching)</p>
-   <p>👉 Messaging Queues for asynchronous communication</p>
-
- (b) Identification of algorithm/data structures and ways to scale them
- (c) Scaling individual components - Horizontal & Vertical Scaling
- (d) Database Partitioning -
-   i) Methods
-     👉 Horizontal Partitioning
-     👉 Vertical Partitioning
-     👉 Directory-Based Partitioning
-   ii) Criteria    
-     👉 Range-Based Partitioning
-     👉 Hash-Based Partitioning (Consistent Hashing)
-     👉 Round Robin
- (e) Replication & Redundancy -
-    👉 Redundancy - Primary & Secondary Server
-    👉 Replication - Data replication from active to mirrored database     
- (f) Databases
-    👉 SQL - Sharding, Indexes, master-slave, master-master, Denormalization
-    👉 NoSQL - Key-Value, Document, Wide-Column, Graph 
- (g) Communication Protocols and standards like - IP, TCP, UDP, HTTP/S, RPC, REST, Web Sockets
-
-✅ 𝐑𝐞𝐬𝐨𝐥𝐯𝐞 𝐛𝐨𝐭𝐭𝐥𝐞𝐧𝐞𝐜𝐤𝐬 𝐚𝐧𝐝 𝐟𝐨𝐥𝐥𝐨𝐰-𝐮𝐩 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 (2-3 𝐦𝐢𝐧𝐮𝐭𝐞𝐬)
-</p>
 
 
 <h1>System Design GIT Pages</h1>
