@@ -1,68 +1,99 @@
 # SystemDesignUsefulResouces
 # SystemDesignUsefulResouces
+<!DOCTYPE html>
 <html>
-<body style="background-color:powderblue;">
+<body style="background-color:powderblue; font-family: Arial, sans-serif;">
 
-<table>
-   <caption>System Design Resources and Basics</caption>
+<h1 id="SystemDesignUsefulResources">System Design Useful Resources</h1>
+
+<!-- System Design Resources and Basics -->
+<h2>System Design Resources and Basics</h2>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <caption><strong>System Design Resources and Basics</strong></caption>
+  <tr>
+    <th>Resource</th>
+    <th>Link</th>
+  </tr>
   <tr>
     <td>Donne Martin</td>
-    <td>https://github.com/donnemartin/system-design-primer</td>
+    <td><a href="https://github.com/donnemartin/system-design-primer" target="_blank">https://github.com/donnemartin/system-design-primer</a></td>
   </tr>
-    <tr>
+  <tr>
     <td>Awesome Scalability</td>
-    <td>https://github.com/binhnguyennus/awesome-scalability</td>
+    <td><a href="https://github.com/binhnguyennus/awesome-scalability" target="_blank">https://github.com/binhnguyennus/awesome-scalability</a></td>
   </tr>
-      <tr>
+  <tr>
     <td>Awesome System Design</td>
-    <td>https://github.com/ashishps1/awesome-system-design-resources</td>
+    <td><a href="https://github.com/ashishps1/awesome-system-design-resources" target="_blank">https://github.com/ashishps1/awesome-system-design-resources</a></td>
   </tr>
 </table>
-  
-<table>
- <caption>Design Lectures</caption>
+
+<br>
+
+<!-- Design Lectures -->
+<h2>Design Lectures</h2>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <caption><strong>Design Lectures</strong></caption>
+  <tr>
+    <th>Lecture</th>
+    <th>Link</th>
+  </tr>
   <tr>
     <td>CS Lectures</td>
-    <td>https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu</td>
+    <td><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu" target="_blank">https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu</a></td>
   </tr>
-    <tr>
-    <td>MIT Distributedsystems</td>
-    <td>https://www.youtube.com/@6.824/videos</td>
+  <tr>
+    <td>MIT Distributed Systems</td>
+    <td><a href="https://www.youtube.com/@6.824/videos" target="_blank">https://www.youtube.com/@6.824/videos</a></td>
   </tr>
 </table>
 
-https://research.google/teams/
-https://rclayton.silvrback.com/use-state-machines
+<br>
 
-<h1>Awesome Microservices</h1>
-<p>https://github.com/markoa/awesome-microservices<p1>
+<!-- Additional Links -->
+<h2>Additional Links</h2>
+<ul>
+  <li><a href="https://research.google/teams/" target="_blank">Google Research Teams</a></li>
+  <li><a href="https://rclayton.silvrback.com/use-state-machines" target="_blank">Use State Machines - RClayton Blog</a></li>
+</ul>
 
-<h1>Search Engines Design</h1>
-<p>https://www.youtube.com/@msci541-searchengines3</p>
+<!-- Awesome Microservices -->
+<h2>Awesome Microservices</h2>
+<p><a href="https://github.com/markoa/awesome-microservices" target="_blank">https://github.com/markoa/awesome-microservices</a></p>
 
-<h1>Awesome system design concepts</h1>
-<table>
+<!-- Search Engines Design -->
+<h2>Search Engines Design</h2>
+<p><a href="https://www.youtube.com/@msci541-searchengines3" target="_blank">https://www.youtube.com/@msci541-searchengines3</a></p>
+
+<!-- Awesome System Design Concepts -->
+<h2>Awesome System Design Concepts</h2>
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <caption><strong>Awesome System Design Concepts</strong></caption>
   <tr>
     <th>No</th>
     <th>Notes</th>
-    <th>URLS</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Awesome System Design</td>
-    <td>https://github.com/ashishps1/awesome-system-design-resources</td>
+    <td><a href="https://github.com/ashishps1/awesome-system-design-resources" target="_blank">https://github.com/ashishps1/awesome-system-design-resources</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>AWS Architecture Blog</td>
-    <td>https://lnkd.in/eEchKJif</td>
+    <td><a href="https://lnkd.in/eEchKJif" target="_blank">https://lnkd.in/eEchKJif</a></td>
   </tr>
-   <tr>
+  <tr>
     <td>3</td>
-    <td>System design newsletter</td>
-    <td>https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies</td>
+    <td>System Design Newsletter</td>
+    <td><a href="https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies" target="_blank">https://github.com/systemdesign42/system-design?tab=readme-ov-file#p-companies</a></td>
   </tr>
 </table>
+
+</body>
+</html>
+
 
 <h1>75 Engineering blogs worth reading to improve your system design:</h1>
 <table>
