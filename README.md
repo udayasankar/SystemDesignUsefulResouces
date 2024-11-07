@@ -1,5 +1,4 @@
 # SystemDesignUsefulResouces
-# SystemDesignUsefulResouces
 <!DOCTYPE html>
 <html>
 <body style="background-color:powderblue; font-family: Arial, sans-serif;">
@@ -94,30 +93,99 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue; font-family: Arial, sans-serif;">
 
-<h1>75 Engineering blogs worth reading to improve your system design:</h1>
-<table>
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue; font-family: Arial, sans-serif;">
+
+<h1>Remaining Engineering Blogs:</h1>
+
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <caption><strong>Additional Engineering Blogs</strong></caption>
   <tr>
     <th>No</th>
-    <th>Company</th>
-    <th>URLS</th>
+    <th>Notes</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>1</td>
-    <td>Engineering at Meta</td>
-    <td>>https://lnkd.in/e8tiSkEv</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>developer roadmap</td>
-    <td>https://github.com/kamranahmedse/developer-roadmap</td>
-  </tr>
-   <tr>
-    <td>3</td>
-    <td>The Nextflix Tech Blog </td>
-    <td>https://lnkd.in/efPuR39b</td>
+    <td>Remaining 25 Blogs</td>
+    <td><a href="https://lnkd.in/ekhdFT3t" target="_blank">https://lnkd.in/ekhdFT3t</a></td>
   </tr>
 </table>
+
+</body>
+</html>
+
+
+<h1>75 Engineering Blogs Worth Reading to Improve Your System Design:</h1>
+
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <caption><strong>Engineering Blogs</strong></caption>
+  <tr>
+    <th>No</th>
+    <th>Blog Name</th>
+    <th>Link</th>
+  </tr>
+  <tr><td>1</td><td>Red Hat Developers</td><td><a href="https://developers.redhat.com/" target="_blank">https://developers.redhat.com/</a></td></tr>
+  <tr><td>2</td><td>High Scalability</td><td><a href="https://lnkd.in/eQ4eDw4E" target="_blank">https://lnkd.in/eQ4eDw4E</a></td></tr>
+  <tr><td>3</td><td>Engineering at Meta</td><td><a href="https://lnkd.in/e8tiSkEv" target="_blank">https://lnkd.in/e8tiSkEv</a></td></tr>
+  <tr><td>4</td><td>AWS Architecture Blog</td><td><a href="https://lnkd.in/eEchKJif" target="_blank">https://lnkd.in/eEchKJif</a></td></tr>
+  <tr><td>5</td><td>All Things Distributed</td><td><a href="https://lnkd.in/emXaQDaS" target="_blank">https://lnkd.in/emXaQDaS</a></td></tr>
+  <tr><td>6</td><td>Netflix Tech Blog</td><td><a href="https://lnkd.in/efPuR39b" target="_blank">https://lnkd.in/efPuR39b</a></td></tr>
+  <tr><td>7</td><td>LinkedIn Engineering Blog</td><td><a href="https://lnkd.in/ehaePQth" target="_blank">https://lnkd.in/ehaePQth</a></td></tr>
+  <tr><td>8</td><td>Uber Engineering Blog</td><td><a href="https://eng.uber.com/" target="_blank">https://eng.uber.com/</a></td></tr>
+  <tr><td>9</td><td>Engineering at Quora</td><td><a href="https://lnkd.in/em-WkhJd" target="_blank">https://lnkd.in/em-WkhJd</a></td></tr>
+  <tr><td>10</td><td>Pinterest Engineering</td><td><a href="https://lnkd.in/esBTntjq" target="_blank">https://lnkd.in/esBTntjq</a></td></tr>
+  <tr><td>11</td><td>Lyft Engineering Blog</td><td><a href="https://eng.lyft.com/" target="_blank">https://eng.lyft.com/</a></td></tr>
+  <tr><td>12</td><td>Twitter Engineering Blog</td><td><a href="https://lnkd.in/evMFNhEs" target="_blank">https://lnkd.in/evMFNhEs</a></td></tr>
+  <tr><td>13</td><td>Dropbox Engineering Blog</td><td><a href="https://dropbox.tech/" target="_blank">https://dropbox.tech/</a></td></tr>
+  <tr><td>14</td><td>Spotify Engineering</td><td><a href="https://lnkd.in/eJerVRQM" target="_blank">https://lnkd.in/eJerVRQM</a></td></tr>
+  <tr><td>15</td><td>GitHub Engineering</td><td><a href="https://lnkd.in/eCADWt8x" target="_blank">https://lnkd.in/eCADWt8x</a></td></tr>
+  <tr><td>16</td><td>Instagram Engineering</td><td><a href="https://lnkd.in/e7Gag8m5" target="_blank">https://lnkd.in/e7Gag8m5</a></td></tr>
+  <tr><td>17</td><td>Canva Engineering Blog</td><td><a href="https://canvatechblog.com/" target="_blank">https://canvatechblog.com/</a></td></tr>
+  <tr><td>18</td><td>Etsy Engineering</td><td><a href="https://lnkd.in/eddzzKRt" target="_blank">https://lnkd.in/eddzzKRt</a></td></tr>
+  <tr><td>19</td><td>Booking.com Tech Blog</td><td><a href="https://blog.booking.com/" target="_blank">https://blog.booking.com/</a></td></tr>
+  <tr><td>20</td><td>Expedia Technology</td><td><a href="https://lnkd.in/ehjuBE5J" target="_blank">https://lnkd.in/ehjuBE5J</a></td></tr>
+  <tr><td>21</td><td>Airbnb Tech Blog</td><td><a href="https://lnkd.in/emGrJbGM" target="_blank">https://lnkd.in/emGrJbGM</a></td></tr>
+  <tr><td>22</td><td>Stripe Engineering Blog</td><td><a href="https://lnkd.in/em6Svgyx" target="_blank">https://lnkd.in/em6Svgyx</a></td></tr>
+  <tr><td>23</td><td>Ebay Tech Blog</td><td><a href="https://tech.ebayinc.com/" target="_blank">https://tech.ebayinc.com/</a></td></tr>
+  <tr><td>24</td><td>Flickr's Tech Blog</td><td><a href="https://code.flickr.net/" target="_blank">https://code.flickr.net/</a></td></tr>
+  <tr><td>25</td><td>Hubspot Product and Engineering Blog</td><td><a href="https://lnkd.in/eRGZkBd4" target="_blank">https://lnkd.in/eRGZkBd4</a></td></tr>
+  <tr><td>26</td><td>Zynga Engineering</td><td><a href="https://lnkd.in/eex5Ddry" target="_blank">https://lnkd.in/eex5Ddry</a></td></tr>
+  <tr><td>27</td><td>Yelp Engineering Blog</td><td><a href="https://lnkd.in/epgBW_4J" target="_blank">https://lnkd.in/epgBW_4J</a></td></tr>
+  <tr><td>28</td><td>Heroku Engineering Blog</td><td><a href="https://lnkd.in/evgctQjh" target="_blank">https://lnkd.in/evgctQjh</a></td></tr>
+  <tr><td>29</td><td>Discord Engineering and Design</td><td><a href="https://lnkd.in/evY4gpUA" target="_blank">https://lnkd.in/evY4gpUA</a></td></tr>
+  <tr><td>30</td><td>Zomato</td><td><a href="https://lnkd.in/e9gf3APD" target="_blank">https://lnkd.in/e9gf3APD</a></td></tr>
+  <tr><td>31</td><td>Hotstar</td><td><a href="https://blog.hotstar.com/" target="_blank">https://blog.hotstar.com/</a></td></tr>
+  <tr><td>32</td><td>Swiggy</td><td><a href="https://bytes.swiggy.com/" target="_blank">https://bytes.swiggy.com/</a></td></tr>
+  <tr><td>33</td><td>Acast Tech</td><td><a href="https://lnkd.in/esuCEYZb" target="_blank">https://lnkd.in/esuCEYZb</a></td></tr>
+  <tr><td>34</td><td>ASOS Tech Blog</td><td><a href="https://lnkd.in/esXfdv3G" target="_blank">https://lnkd.in/esXfdv3G</a></td></tr>
+  <tr><td>35</td><td>Shopify Engineering</td><td><a href="https://lnkd.in/evvnqQTj" target="_blank">https://lnkd.in/evvnqQTj</a></td></tr>
+  <tr><td>36</td><td>Microsoft Tech Blogs</td><td><a href="https://lnkd.in/etw_7_bN" target="_blank">https://lnkd.in/etw_7_bN</a></td></tr>
+  <tr><td>37</td><td>Engineering at Microsoft</td><td><a href="https://lnkd.in/eEKz4ECi" target="_blank">https://lnkd.in/eEKz4ECi</a></td></tr>
+  <tr><td>38</td><td>MongoDB Engineering Blog</td><td><a href="https://lnkd.in/e9iaqcmZ" target="_blank">https://lnkd.in/e9iaqcmZ</a></td></tr>
+  <tr><td>39</td><td>Slack Engineering</td><td><a href="https://slack.engineering/" target="_blank">https://slack.engineering/</a></td></tr>
+  <tr><td>40</td><td>DoorDash Engineering</td><td><a href="https://lnkd.in/ep5raBZv" target="_blank">https://lnkd.in/ep5raBZv</a></td></tr>
+  <tr><td>41</td><td>Akamai</td><td><a href="https://lnkd.in/ey_dtA7C" target="_blank">https://lnkd.in/ey_dtA7C</a></td></tr>
+  <tr><td>42</td><td>Expedia Technology</td><td><a href="https://lnkd.in/ehjuBE5J" target="_blank">https://lnkd.in/ehjuBE5J</a></td></tr>
+  <tr><td>43</td><td>Reddit Engineering</td><td><a href="https://lnkd.in/e4E_XzaX" target="_blank">https://lnkd.in/e4E_XzaX</a></td></tr>
+  <tr><td>44</td><td>Snap Engineering</td><td><a href="https://eng.snap.com/blog" target="_blank">https://eng.snap.com/blog</a></td></tr>
+  <tr><td>45</td><td>CloudFlare</td><td><a href="https://lnkd.in/exEsYAx5" target="_blank">https://lnkd.in/exEsYAx5</a></td></tr>
+  <tr><td>46</td><td>Engineering at Depop</td><td><a href="https://lnkd.in/eGjRYcFd" target="_blank">https://lnkd.in/eGjRYcFd</a></td></tr>
+  <tr><td>47</td><td>SourceDiving (Cookpad's Engineering Blog)</td><td><a href="https://sourcediving.com/" target="_blank">https://sourcediving.com/</a></td></tr>
+  <tr><td>48</td><td>Auto Trader Engineering Blog</td><td><a href="https://lnkd.in/eGDKA_g3" target="_blank">https://lnkd.in/eGDKA_g3</a></td></tr>
+  <tr><td>49</td><td>Indeed Engineering Blog</td><td><a href="https://lnkd.in/ecFS87Dt" target="_blank">https://lnkd.in/ecFS87Dt</a></td></tr>
+  <tr><td>50</td><td>Gusto Engineering Blog</td><td><a href="https://lnkd.in/e7yVxDKs" target="_blank">https://lnkd.in/e7yVxDKs</a></td></tr>
+  <tr><td>51</td><td>Engineering at Birdie</td><td><a href="https://lnkd.in/eUqJTpje" target="_blank">https://lnkd.in/eUqJTpje</a></td></tr>
+</table>
+
+</body>
+</html>
+
 
 <h1>Scalability Design URLS</h1>
 
@@ -178,61 +246,7 @@ https://lnkd.in/dtMAgFgN</p>
 <p>https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-slides.pdf</p>
 
 
-<h1>75 Engineering blogs worth reading to improve your system design:</h1>
 
-<p>https://developers.redhat.com/</p>
-<p>High Scalability https://lnkd.in/eQ4eDw4E</p>
-<p>Engineering at Meta https://lnkd.in/e8tiSkEv</p>
-<p>AWS Architecture Blog https://lnkd.in/eEchKJif</p>
-<p>All Things Distributed https://lnkd.in/emXaQDaS</p>
-<p>The Nextflix Tech Blog https://lnkd.in/efPuR39b</p>
-<p>LinkedIn Engineering Blog https://lnkd.in/ehaePQth</p>
-<p>Uber Engineering Blog https://eng.uber.com/</p>
-<p>Engineering at Quora https://lnkd.in/em-WkhJd</p>
-<p>Pinterest Engineering https://lnkd.in/esBTntjq</p>
-<p>Lyft Engineering Blog https://eng.lyft.com/</p>
-<p>Twitter Engineering Blog https://lnkd.in/evMFNhEs</p>
-<p>Dropbox Engineering Blog https://dropbox.tech/</p>
-<p>Spotify Engineering https://lnkd.in/eJerVRQM</p>
-<p>Github Engineering https://lnkd.in/eCADWt8x</p>
-<p>Instagram Engineering https://lnkd.in/e7Gag8m5</p>
-<p>Canva Engineering Blog https://canvatechblog.com/</p>
-<p>Etsy Engineering https://lnkd.in/eddzzKRt</p>
-<p>Booking.com Tech Blog https://blog.booking.com/</p>
-<p>Expedia Technology https://lnkd.in/ehjuBE5J</p>
-<p>The Airbnb Tech Blog https://lnkd.in/emGrJbGM</p>
-<p>Stripe Engineering Blog https://lnkd.in/em6Svgyx</p>
-<p>Ebay Tech Blog https://tech.ebayinc.com/</p>
-<p>Flickr's Tech Blog https://code.flickr.net/</p>
-<p>Hubspot Product and Engineering Blog https://lnkd.in/eRGZkBd4</p>
-<p>Zynga Engineering https://lnkd.in/eex5Ddry</p>
-<p>Yelp Engineering Blog https://lnkd.in/epgBW_4J</p>
-<p>Heroku Engineering Blog https://lnkd.in/evgctQjh</p>
-<p>Discord Engineering and Design https://lnkd.in/evY4gpUA</p>
-<p>Zomato https://lnkd.in/e9gf3APD</p>
-<p>Hotstar https://blog.hotstar.com/</p>
-<p>Swiggy https://bytes.swiggy.com/</p>
-<p>Acast Tech https://lnkd.in/esuCEYZb</p>
-<p>ASOS Tech Blog https://lnkd.in/esXfdv3G</p>
-<p>Shopify Engineering https://lnkd.in/evvnqQTj</p>
-<p>Microsoft Tech Blogs https://lnkd.in/etw_7_bN</p>
-<p>Engineering at Microsoft https://lnkd.in/eEKz4ECi</p>
-<p>MongoDB Engineering Blog https://lnkd.in/e9iaqcmZ</p>
-<p>Slack Engineering https://slack.engineering/</p>
-<p>DoorDash Engineering https://lnkd.in/ep5raBZv</p>
-<p>Akamai https://lnkd.in/ey_dtA7C</p>
-<p>Expedia Technology https://lnkd.in/ehjuBE5J</p>
-<p>Reddit Engineering https://lnkd.in/e4E_XzaX</p>
-<p>Snap Engineering https://eng.snap.com/blog</p>
-<p>CloudFlare https://lnkd.in/exEsYAx5</p>
-<p>Engineering at Depop https://lnkd.in/eGjRYcFd</p>
-<p>SourceDiving (Cookpad's Engineering Blog https://sourcediving.com/</p>
-<p>Auto Trader Engineering Blog https://lnkd.in/eGDKA_g3</p>
-<p>Indeed Engineering Blog https://lnkd.in/ecFS87Dt</p>
-<p>Gusto Engineering Blog https://lnkd.in/e7yVxDKs</p>
-<p>Engineering at Birdie https://lnkd.in/eUqJTpje</p>
-
-<p>Out of characters, so the other 25 are here: https://lnkd.in/ekhdFT3t
 
 
 <h1>System design resources</h1>
