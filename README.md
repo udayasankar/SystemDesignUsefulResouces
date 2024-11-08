@@ -159,11 +159,7 @@
 <br>
 
 <html>
-<head>
-    <title>Key Topics for System Design Preparation</title>
-</head>
 <body>
-
 <h2>Key Topics for System Design Preparation</h2>
 <p>No matter the scale, these topics come into play each time. Prepare these well.</p>
 
