@@ -158,6 +158,159 @@
 
 <br>
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Key Topics for System Design Preparation</title>
+</head>
+<body>
+
+<h2>Key Topics for System Design Preparation</h2>
+<p>No matter the scale, these topics come into play each time. Prepare these well.</p>
+
+<table border="1">
+    <tr>
+        <th>Topic</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Checksum</td>
+        <td><a href="https://lnkd.in/gJnJpnRF" target="_blank">https://lnkd.in/gJnJpnRF</a></td>
+    </tr>
+    <tr>
+        <td>CAP Theorem</td>
+        <td><a href="https://lnkd.in/gjtcJxeN" target="_blank">https://lnkd.in/gjtcJxeN</a></td>
+    </tr>
+    <tr>
+        <td>SQL vs NoSQL</td>
+        <td><a href="https://lnkd.in/gwCe58TU" target="_blank">https://lnkd.in/gwCe58TU</a></td>
+    </tr>
+    <tr>
+        <td>Circuit Breaker</td>
+        <td><a href="https://lnkd.in/gvSrR_EA" target="_blank">https://lnkd.in/gvSrR_EA</a></td>
+    </tr>
+    <tr>
+        <td>Load Balancing</td>
+        <td><a href="https://lnkd.in/gefSiXEJ" target="_blank">https://lnkd.in/gefSiXEJ</a></td>
+    </tr>
+    <tr>
+        <td>Fault Tolerance</td>
+        <td><a href="https://lnkd.in/guiDtdXT" target="_blank">https://lnkd.in/guiDtdXT</a></td>
+    </tr>
+    <tr>
+        <td>API Design</td>
+        <td><a href="https://lnkd.in/g6tHgXr7" target="_blank">https://lnkd.in/g6tHgXr7</a></td>
+    </tr>
+    <tr>
+        <td>WebSockets</td>
+        <td><a href="https://lnkd.in/gzdAdBNC" target="_blank">https://lnkd.in/gzdAdBNC</a></td>
+    </tr>
+    <tr>
+        <td>API Gateway</td>
+        <td><a href="https://lnkd.in/gWYGxs3S" target="_blank">https://lnkd.in/gWYGxs3S</a></td>
+    </tr>
+    <tr>
+        <td>Failover</td>
+        <td><a href="https://lnkd.in/g-eH-Pvf" target="_blank">https://lnkd.in/g-eH-Pvf</a></td>
+    </tr>
+    <tr>
+        <td>Caching</td>
+        <td><a href="https://lnkd.in/gAp-9udf" target="_blank">https://lnkd.in/gAp-9udf</a></td>
+    </tr>
+    <tr>
+        <td>Scalability</td>
+        <td><a href="https://lnkd.in/gHUfp8x9" target="_blank">https://lnkd.in/gHUfp8x9</a></td>
+    </tr>
+    <tr>
+        <td>HeartBeat</td>
+        <td><a href="https://lnkd.in/gzfQt74b" target="_blank">https://lnkd.in/gzfQt74b</a></td>
+    </tr>
+    <tr>
+        <td>Proxy Server</td>
+        <td><a href="https://lnkd.in/gs2ZF8_d" target="_blank">https://lnkd.in/gs2ZF8_d</a></td>
+    </tr>
+    <tr>
+        <td>Bloom Filters</td>
+        <td><a href="https://lnkd.in/gnekDkQv" target="_blank">https://lnkd.in/gnekDkQv</a></td>
+    </tr>
+    <tr>
+        <td>REST vs RPC</td>
+        <td><a href="https://lnkd.in/gVGeh3VV" target="_blank">https://lnkd.in/gVGeh3VV</a></td>
+    </tr>
+    <tr>
+        <td>Idempotency</td>
+        <td><a href="https://lnkd.in/gqGnkZHg" target="_blank">https://lnkd.in/gqGnkZHg</a></td>
+    </tr>
+    <tr>
+        <td>Database Index</td>
+        <td><a href="https://lnkd.in/gE_q5m_g" target="_blank">https://lnkd.in/gE_q5m_g</a></td>
+    </tr>
+    <tr>
+        <td>Data Replication</td>
+        <td><a href="https://lnkd.in/gPBmH5h8" target="_blank">https://lnkd.in/gPBmH5h8</a></td>
+    </tr>
+    <tr>
+        <td>Database Scaling</td>
+        <td><a href="https://lnkd.in/gX7AKQHY" target="_blank">https://lnkd.in/gX7AKQHY</a></td>
+    </tr>
+    <tr>
+        <td>Data Redundancy</td>
+        <td><a href="https://lnkd.in/gccsuSvr" target="_blank">https://lnkd.in/gccsuSvr</a></td>
+    </tr>
+    <tr>
+        <td>Service Discovery</td>
+        <td><a href="https://lnkd.in/gEjBT8ZA" target="_blank">https://lnkd.in/gEjBT8ZA</a></td>
+    </tr>
+    <tr>
+        <td>Disaster Recovery</td>
+        <td><a href="https://lnkd.in/gEYQ_74X" target="_blank">https://lnkd.in/gEYQ_74X</a></td>
+    </tr>
+    <tr>
+        <td>ACID Transactions</td>
+        <td><a href="https://lnkd.in/g-sjsMwX" target="_blank">https://lnkd.in/g-sjsMwX</a></td>
+    </tr>
+    <tr>
+        <td>Database Sharding</td>
+        <td><a href="https://lnkd.in/gnuxe5pu" target="_blank">https://lnkd.in/gnuxe5pu</a></td>
+    </tr>
+    <tr>
+        <td>Distributed Locking</td>
+        <td><a href="https://lnkd.in/gJrrrqsa" target="_blank">https://lnkd.in/gJrrrqsa</a></td>
+    </tr>
+    <tr>
+        <td>Consistent Hashing</td>
+        <td><a href="https://lnkd.in/gmrHsEzq" target="_blank">https://lnkd.in/gmrHsEzq</a></td>
+    </tr>
+    <tr>
+        <td>Distributed Caching</td>
+        <td><a href="https://lnkd.in/gUH2yV-X" target="_blank">https://lnkd.in/gUH2yV-X</a></td>
+    </tr>
+    <tr>
+        <td>Consistency Patterns</td>
+        <td><a href="https://lnkd.in/gey7tqYh" target="_blank">https://lnkd.in/gey7tqYh</a></td>
+    </tr>
+    <tr>
+        <td>Latency vs Throughput</td>
+        <td><a href="https://lnkd.in/gDAx6QQd" target="_blank">https://lnkd.in/gDAx6QQd</a></td>
+    </tr>
+    <tr>
+        <td>Serverless Architecture</td>
+        <td><a href="https://lnkd.in/gtS52Sza" target="_blank">https://lnkd.in/gtS52Sza</a></td>
+    </tr>
+</table>
+
+<h2>Additional Resources</h2>
+<ul>
+    <li><a href="https://github.com/systemdesign42/system-design" target="_blank">https://github.com/systemdesign42/system-design</a></li>
+    <li><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">https://github.com/kamranahmedse/developer-roadmap</a></li>
+    <li><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">https://github.com/EbookFoundation/free-programming-books</a></li>
+    <li><a href="https://github.com/CodingChallengesFYI/SharedSolutions" target="_blank">https://github.com/CodingChallengesFYI/SharedSolutions</a></li>
+</ul>
+
+</body>
+</html>
+
+
 <!-- Design Lectures -->
 <h2>Design Lectures</h2>
 <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
