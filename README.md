@@ -158,7 +158,6 @@
 
 <br>
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Key Topics for System Design Preparation</title>
