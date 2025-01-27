@@ -131,24 +131,14 @@
 <table border="1">
   <tbody>
     <tr>
+        <td>Requirements</td>
+    <tr>
+      <td>Functional Requirements</td>
+      <td>Non-Functional Requirements</td>  
       <td>Daily Active Users</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Read-to-Write Ratio</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Usage Patterns</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Peak and Seasonal Events</td>
-      <td></td>
-      <td></td>
+      <td>Peak and Seasonal Events</td>  
     </tr>
     <tr>
       <td>Database</td>
