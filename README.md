@@ -132,15 +132,34 @@
   <tbody>
     <tr>
         <td>Requirements</td>
+        <td>Functional Requirements</td>
+        <td></td>  
     </tr>    
     <tr>
-      <td>Functional Requirements</td>
+      <td></td>  
       <td>Non-Functional Requirements</td>  
-      <td>Daily Active Users</td>
-      <td>Read-to-Write Ratio</td>
-      <td>Usage Patterns</td>
-      <td>Peak and Seasonal Events</td>  
+      <td></td>    
     </tr>
+    <tr>
+      <td></td>  
+      <td>Daily Active Users</td>
+      <td></td>    
+    </tr>    
+    <tr>
+       <td></td>    
+      <td>Read-to-Write Ratio</td>
+       <td></td>    
+    </tr>   
+    <tr>
+       <td></td>    
+      <td>Usage Patterns</td>
+       <td></td>    
+    </tr>    
+    <tr>
+       <td></td>    
+      <td>Peak and Seasonal Events</td>    
+       <td></td>    
+    </tr>      
     <tr>
       <td>Database</td>
       <td>Data Model</td>
