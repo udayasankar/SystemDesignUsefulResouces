@@ -129,13 +129,6 @@
 </html>
 
 <table border="1">
-  <thead>
-    <tr>
-      <th>Requirements</th>
-      <th>Functional Requirements</th>
-      <th>Non-Functional Requirements</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>Daily Active Users</td>
@@ -439,6 +432,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 <html>
