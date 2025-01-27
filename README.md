@@ -132,6 +132,7 @@
   <tbody>
     <tr>
         <td>Requirements</td>
+    </tr>    
     <tr>
       <td>Functional Requirements</td>
       <td>Non-Functional Requirements</td>  
