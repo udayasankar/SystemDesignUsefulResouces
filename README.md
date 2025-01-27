@@ -128,6 +128,318 @@
 </body>
 </html>
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Requirements</th>
+      <th>Functional Requirements</th>
+      <th>Non-Functional Requirements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Daily Active Users</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Read-to-Write Ratio</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Usage Patterns</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Peak and Seasonal Events</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>Data Model</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Entity Relationship Diagram</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>SQL</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Type of Database</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>API Design</td>
+      <td>HTTP Verb</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Request-Response Headers</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Request-Response Contract</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Data format</td>
+      <td>JSON, XML, Protocol Buffer</td>
+    </tr>
+    <tr>
+      <td>Capacity Planning</td>
+      <td>Query Per Second (Read-Write)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bandwidth (Read-Write)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Storage</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Memory</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Cache (80-20 Rule)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>High Level Design</td>
+      <td>Basic Algorithm</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Data Flow</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Read-Write Scenario</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Tradeoffs</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Alternatives</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Network Protocols</td>
+      <td>TCP, UDP</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>REST</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RPC</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>WebSocket</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>SSE</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Long Polling</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cloud Patterns</td>
+      <td>CQRS</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Publish-Subscribe</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Serverless Functions</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Data Structures</td>
+      <td>CRDT</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Trie</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Design Deep Dive</td>
+      <td>Single Point of Failures</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Bottlenecks (Hot spots)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Concurrency</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Distributed Transactions</td>
+      <td>Two-Phase Commit, Sagas</td>
+    </tr>
+    <tr>
+      <td>Probabilistic Data Structures</td>
+      <td>Bloom Filter, HyperLogLog, Count-Min Sketch</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Coordination Service</td>
+      <td>Zookeeper</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Logging</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Monitoring</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Alerting</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Tracing</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Deployment</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Security</td>
+      <td>Authorization, Authentication</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Consensus Algorithms</td>
+      <td>Raft, Paxos</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Components</td>
+      <td>DNS</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>CDN</td>
+      <td>Push-Pull</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Load Balancer</td>
+      <td>Layer 4-7, Active-Active, Active-Passive</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Reverse Proxy</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Application Layer</td>
+      <td>Microservice-Monolith</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Service Discovery</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SQL Data Store</td>
+      <td>Leader-Follower, Leader-Leader</td>
+      <td>Indexing, Federation, Sharding, Denormalization, SQL Tuning</td>
+    </tr>
+    <tr>
+      <td>NoSQL Data Store</td>
+      <td>Graph, Document, Key-Value, Wide-Column</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Message Queue</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Task Queue</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cache</td>
+      <td>Query-Object Level</td>
+      <td>Client, CDN, Webserver, Database, Application</td>
+    </tr>
+    <tr>
+      <td>Cache Update Pattern</td>
+      <td>Cache Aside, Read Through, Write Through, Write Behind, Refresh Ahead</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cache Eviction Policy</td>
+      <td>LRU, LFU, FIFO</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Clocks</td>
+      <td>Physical clock, Lamport clock (logical), Vector clock</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <html>
 <body style="background-color:powderblue; font-family: Arial, sans-serif;">
