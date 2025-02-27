@@ -1282,23 +1282,7 @@
 <h1>"How we store and process millions of orders daily at #grab"</h1>
 <p>Grab : https://engineering.grab.com/how-we-store-millions-orders</p>
 
-
 <p>https://github.com/resumejob/system-design-algorithms</p>
-
-<p>https://sre.google/</p>
-
-<p>https://netflixtechblog.com/</p>
-
-<p>https://medium.com/airbnb-engineering</p>
-
-<p>https://slack.engineering/</p>
-
-<p>https://www.uber.com/en-IN/blog/bangalore/engineering/</p>
-
-<p>https://blog.twitter.com/engineering/en_us</p>
-
-
-
 
 <p>https://github.com/jwasham/coding-interview-university</p>
 
@@ -1313,23 +1297,12 @@
 
 <p>https://github.com/dennyzhang/cheatsheet.dennyzhang.com</p>
 
-
-
-
 <p>https://get.interviewready.io/blog/interviewready-20-system-design</p>
 
 <p>https://github.com/InterviewReady/system-design-resources</p>
 
 <p>https://github.com/prasadgujar/low-level-design-primer</p>
 
-
-<p>https://github.com/InterviewReady/system-design-resources</p>
-
-<p>https://levelup.gitconnected.com/100-essential-systems-design-concepts-that-every-developer-must-know-part-1-1318c2c402ca</p>
-
-<h1>100 Essential Systems Design Concepts That Every Developer Must Know (Part 1: 1–10) :</h1>
-
-<p>https://levelup.gitconnected.com/100-essential-systems-design-concepts-that-every-developer-must-know-part-1-1318c2c402ca</p>
 
 </body>
 </html>
