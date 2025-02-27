@@ -1331,12 +1331,5 @@
 
 <p>https://levelup.gitconnected.com/100-essential-systems-design-concepts-that-every-developer-must-know-part-1-1318c2c402ca</p>
 
-<h1>Top 30 System Design Interview Questions and Problems for Programmers and Software Engineers :</h1>
-
-<p>https://faun.pub/top-30-system-design-interview-questions-and-problems-for-programmers-417e89eadd67</p>
-
-<p>https://github.com/Amanhacker/system-design-resources
-https://cheatsheet.dennyzhang.com/cheatsheet-systemdesign-A4</p>
-
 </body>
 </html>
