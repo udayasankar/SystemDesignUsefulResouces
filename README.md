@@ -1381,23 +1381,5 @@ Books:</p>
 <p>Thoughtworks Podcast
 <p>Googlers who've inspired me:</p>
 
-
-<h1>5 papers that every senior backend engineer should read.</h1>
-
-<h1>Harvest, Yield and Scalable Tolerant Systems - </h1>
-<p>https://lnkd.in/gX_Up2p4</p>
-
-<h1>On Designing and Deploying Internet Scale Services - </h1>
-<p>https://lnkd.in/gA5mgzXv</p>
-
-<h1>Data on the Outside versus Data on the Inside - </h1>
-<p>https://lnkd.in/g5HU9cAC</p>
-
-<h1>Building on Quicksand - </h1>
-<p>https://lnkd.in/gmWnJBVX</p>
-
-<h1>A Note on Distributed Computing - </h1>
-<p>https://lnkd.in/gxEkVgDC</p>
-
 </body>
 </html>
