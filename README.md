@@ -1015,6 +1015,28 @@
 
 <p>https://github.com/prasadgujar/low-level-design-primer</p>
 
+<h1>System Design interview pages</h1>
+<p>1. Tech Interview Handbook Yangshun Tay https://github.com/yangshun/tech-interview-handbook</p>
+
+<p>2. System Design Primer by Donne Martin https://github.com/donnemartin/system-design-primer</p>
+
+<p>3. System Design 101 by Alex Xu:  https://github.com/ByteByteGoHq/system-design-101</p>
+
+<p>4. Top System Design Resources by Gaurav Sen: https://github.com/InterviewReady/system-design-resources</p>
+
+<p>5. Best Company and Personal Engineering Blogs by kilimchoi https://github.com/kilimchoi/engineering-blogs</p>
+
+<p>6. The best developer Roadmaps by Kamran Ahmed : https://github.com/kamranahmedse/developer-roadmap</p>
+
+<p>7. Computer Science Papers for System Design by Arpit Adlakha: https://github.com/arpit20adlakha/Computer-Science-Papers-For-System-Design</P
+
+<p>8. All Resources for Coding, LLD and HLD interviews by Arpit Adlakha: https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD</P>
+
+<p>9 Coding Interview University https://github.com/jwasham/coding-interview-university</p>
+
+<p>10 System Design Questions/Solutions Collection by Ashish Pratap Singh https://github.com/ashishps1/awesome-system-design-resources</p>
+
+<p>11. What Happens when you type google.com in browser(Most Indepth Answer): https://github.com/alex/what-happens-when</p>
 
 </body>
 </html>
