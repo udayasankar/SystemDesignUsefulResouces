@@ -973,7 +973,6 @@
 <h1>Git Hub System Design Links</h1>
 <p>https://github.com/InterviewReady/system-design-resources</P>
 <p>https://github.com/binhnguyennus/awesome-scalability</P>
-<p>https://github.com/InterviewReady/system-design-resources</p>
 
 
 <h1>Spotify</h1>
@@ -986,18 +985,7 @@
 <p>https://rockset.com/blog/rocksdb-is-eating-the-database-world/</p>
 
 
-<h1>Job Scheduler Design:</h1>
-<p>https://medium.com/trendyol-tech/a-distributed-job-scheduler-story-part-ii-b756ffacde63</p>
 
-<p>https://www.linkedin.com/pulse/system-design-distributed-job-scheduler-keep-simple-stupid-ismail/</p>
-
-<p>https://leetcode.com/discuss/general-discussion/1082786/System-Design%3A-Designing-a-distributed-Job-Scheduler-or-Many-interesting-concepts-to-learn</p>
-
-<p>https://dropbox.tech/infrastructure/asynchronous-task-scheduling-at-dropbox</p>
-
-<p>https://engineering.klarna.com/distributed-systems-key-concepts-patterns-d4d5236b9816</p>
-
-<p>https://engineering.klarna.com/automate-resilience-bc0733ac88f4</p>
 
 
 
