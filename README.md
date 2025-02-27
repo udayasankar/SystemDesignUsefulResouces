@@ -1381,11 +1381,6 @@ Books:</p>
 <p>Thoughtworks Podcast
 <p>Googlers who've inspired me:</p>
 
-<p>Robert Konigsberg - Who helped me truly find my voice.</p>
-<p>Titus Winters - Who has given me so much support and opportunity over the years.</p>
-<p>George Fairbanks - Whose deep thoughts on the craft of software development have caused me to think much more deeply about the work I do.</p>
-<p>Michelle Levesque - Who probably doesn’t remember me, but she showed me what authentic and inspired technical leadership can look like.</p>
-<
 
 <h1>5 papers that every senior backend engineer should read.</h1>
 
