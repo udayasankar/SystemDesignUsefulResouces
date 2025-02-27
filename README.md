@@ -1157,78 +1157,13 @@
 <p>📌  (https://lnkd.in/ewc85mED)</p>
 
 
-<h1>Important papers</h1>
-
-<h1>Dynamo: Amazon's Highly Available Key-value Store</h1>
-<p>https://lnkd.in/</p>
-
-<h1>🔹BigTable</h1>
-<p>https://lnkd.in/g7MEFuiY</p>
-
-<h1>🔹Cassandra</h1>
-<p>https://lnkd.in/dQ2sFfXT</p>
-
-<h1>🔹Hadoop Distributed File System</h1>
-<p>https://lnkd.in/dxRUaNfa</p>
-
-<h1>🔹Google File System</h1>
-<p>https://lnkd.in/gvk8eXtm</p>
-
-<h1>🔹Kafka</h1>
-<p>https://lnkd.in/gUe-4dn2</p>
-
-<h1>🔹CockroachDB</h1>
-<p>https://lnkd.in/gr3NJvJc</p>
-
-
-
-<h1>1-Kafka Basics</h1>
-<p>❄️ http://bit.ly/3gCdWSe</p>
-<p>❄️http://bit.ly/3EWDnpV</p>
-
-<h1>2-Kafka Producer</h1>
-<p>❄️ http://bit.ly/3gxgctS</p>
-
-<h1>3-Kafka Stream</h1>
-<p>❄️http://bit.ly/3XzJB7i</p>
-
-<h1>4-KSQL</h1>
-<p>❄️http://bit.ly/3XAGegr</p>
-
-<h1>5-Kafka Connect</h1>
-<p>❄️http://bit.ly/3GKUiyb</p>
-
-<h1>6- Python</h1>
-<p>❄️ http://bit.ly/3CoFlhp</p>
-
-<h1>7- Java Basic</h1>
-<p>❄️http://bit.ly/3UbVDkl</p>
-
-<h1>8-Docker</h1>
-<p>❄️ https://bit.ly/3VlE2rg</p>
-
-<h1>9-ProjectgTadx7kn</h1>
-<p>❄️ http://bit.ly/3iezjcR</p>
-
-
 <p>https://github.com/karanpratapsingh/system-design#next-steps</p>
 
 <p>https://kps.hashnode.dev/system-design-the-complete-course</p>
 
-<h1>Dynamo: Amazon’s Highly Available Key-value Store</h1>
-<p>https://lnkd.in/gTadx7kn</p>
-
-<h1>BigTable</h1>
-<p>https://lnkd.in/g7MEFuiY</p>
-
 <h1>CockroachDB</h1>
-<p>https://lnkd.in/gr3NJvJc</p>
+<p>https://dl.acm.org/doi/pdf/10.1145/3318464.3386134</p>
 
-<h1>Kafka</h1>
-<p>https://lnkd.in/gUe-4dn2</p>
-
-<h1>Google File System</h1>
-<p>https://lnkd.in/gvk8eXtm</p>
 
 <h1>[Bonus] The Log: What every software engineer should know about real-time data's unifying abstraction</h1>
 <p>https://lnkd.in/grgZ8yZY</p>
