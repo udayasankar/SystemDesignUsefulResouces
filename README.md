@@ -1215,45 +1215,6 @@
 
 <p>https://kps.hashnode.dev/system-design-the-complete-course</p>
 
-<p>Airbnb: https://lnkd.in/dC-aHMy2</p>
-
-<p>Atlassian: https://lnkd.in/dgiama9Q</p>
-
-<p>Dropbox: https://dropbox.tech/</p>
-
-<p>Meta: https://lnkd.in/dUpizyy7</p>
-
-<p>GitHub: https://lnkd.in/db3AxDg8</p>
-
-<p>Google: https://lnkd.in/dPhZdkFe</p>
-
-<p>Instagram: https://lnkd.in/dwXUeZg6</p>
-
-<p>Linkedin: https://lnkd.in/djxTkz7v</p>
-
-<p>Netflix: https://lnkd.in/dW9fcqxD</p>
-
-<p>PayPal: https://lnkd.in/dx4w6682</p>
-
-<p>Pinterest: https://lnkd.in/djQzgKRZ</p>
-
-<p>Quora: https://lnkd.in/djUjDjTV</p>
-
-<p>Reddit: https://lnkd.in/d_9zeUtA</p>
-
-<p>Shopify: https://lnkd.in/d2NhrVK3</p>
-
-<p>Slack: https://slack.engineering</p>
-
-<p>Twitter: https://lnkd.in/dFxdurgr</p>
-
-<p>Uber: https://lnkd.in/ds6bpCtj</p>
-
-<p>Yelp: https://lnkd.in/d_kH_tpG</p>
-
-<p>Zoom: https://lnkd.in/d8MRCE43</p>
-
-
 <h1>Dynamo: Amazon’s Highly Available Key-value Store</h1>
 <p>https://lnkd.in/gTadx7kn</p>
 
@@ -1275,9 +1236,6 @@
 <p>https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/</p>
 
 <p>https://khalilstemmler.com/letters/3-steps-to-solve-most-design-problems/</p>
-
-
-<p>https://github.com/stemmlerjs</p>
 
 <h1>"How we store and process millions of orders daily at #grab"</h1>
 <p>Grab : https://engineering.grab.com/how-we-store-millions-orders</p>
