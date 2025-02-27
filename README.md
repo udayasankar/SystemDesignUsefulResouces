@@ -906,31 +906,17 @@
 <p>https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf</p>
 <p>https://www.cl.cam.ac.uk/teaching/2021/ConcDisSys/dist-sys-slides.pdf</p>
 
-
-
-
-
 <h1>System design resources</h1>
 
-<p>1. System Design Concepts : https://lnkd.in/gmhYfk3u</p>
-
-<p>2. HighScalibility Website: https://lnkd.in/g-BGfKRu</p>
-
-<p>3. Hussein Nasser Youtube: https://lnkd.in/gvJ3bjgQ</p>
+<p>2. HighScalibility Website: https://highscalability.com/</p>
 
 <p>4. CodeKarle System Design Playlist: https://lnkd.in/g4yacWgy</p>
 
-<p>5. Gaurav Sen's Youtube Channel : https://lnkd.in/gqnCX_bF</p>
-
-<p>6. ByteByteGo Youtube Channel: https://lnkd.in/gtvAtCxR</p>
-
 <p>7. Level Up System Design Survival Guide: https://lnkd.in/gDMiqHN3</p>
 
-<p>8. Azure's Architecture Guide: https://lnkd.in/gyQvqHhc</p>
+<p>8. Azure's Architecture Guide: https://learn.microsoft.com/en-us/azure/architecture/guide/</p>
 
-<p>9. Amazon CTO's website on all things distributed: https://lnkd.in/gz5h_ffY</p>
-
-<p>10. Best Architecture Notes: https://lnkd.in/get4KpZ5</p>
+<p>10. Best Architecture Notes: https://architecturenotes.co/</p>
 
 <p>11. System Design Primer on Github: https://lnkd.in/g89Mtjea</p>
 
