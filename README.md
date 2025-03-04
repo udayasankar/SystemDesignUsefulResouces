@@ -1040,3 +1040,12 @@
 
 </body>
 </html>
+
+<p>1: The system design primer https://github.com/donnemartin/system-design-primer</p>
+<p>2:Study plan for becoming a software engineer https://github.com/jwasham/coding-interview-university</p>
+<p>3:Software design patterns https://github.com/DovAmir/awesome-design-patterns</p>
+<p>4:Tech interview handbook https://github.com/yangshun/tech-interview-handbook</p>
+<p>5:Tech things every developer should know https://github.com/mtdvio/every-programmer-should-know</p>
+<p>6:Developer roadmap https://github.com/kamranahmedse/developer-roadmap</p>
+<p>7:What happens when you type google com https://github.com/alex/what-happens-when</p> 
+<p>8:The Algorithms https://github.com/TheAlgorithms?trk=public_post_comment-text</p>
